@@ -1,6 +1,6 @@
 <table>
 <td width=100>
-<img src='img/helmet.png'/>
+<img src='https://github.com/gitcoinco/gitcoinco/blob/master/img/helmet.png'/>
 </td>
 <td width=800>
 Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Open Source Forward. Learn more at https://gitcoin.co
