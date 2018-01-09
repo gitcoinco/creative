@@ -4,8 +4,8 @@ a repository of creative assets for the gitcoin.co project
 
 # where to start
 
-* [Press Kit](https://www.dropbox.com/sh/bsjzbu0li2z0kr1/AACKgnQC3g6m52huYI3Gx3Ega?dl=0)
-* [Brand Guidelines](./AFJ/Gitcoin-Brand_Assets/Full Brand/Gitcoin_Brand.pdf)
+* [Press Kit](https://gitcoin.co/presskit)
+* [Brand Guidelines](https://github.com/gitcoinco/creative/blob/master/AFJ/Gitcoin-Brand_Assets/Full%20Brand/Gitcoin_Brand.pdf)
 * .... or... just poke around the folders 
 
 # Legal
