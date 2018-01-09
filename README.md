@@ -44,4 +44,4 @@ This is a repository of creative assets for the gitcoin.co project
 [GNU AFFERO GENERAL PUBLIC LICENSE](./liscense)
 
 <!-- Google Analytics -->
-<img src='https://ga-beacon.appspot.com/UA-102304388-1/gitcoinco/web' style='width:1px; height:1px;' >
+<img src='https://ga-beacon.appspot.com/UA-102304388-1/gitcoinco/creative' style='width:1px; height:1px;' >
