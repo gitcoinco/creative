@@ -1,0 +1,33 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Explorer.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1920 px x 1080 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
+Fonts:
+Futura Medium (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE

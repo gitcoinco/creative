@@ -1,0 +1,96 @@
+page 1
+
+love it
+	- love the green background that's money-colored.  
+		would it make sense to pixelate or put a sublte pattern in the bakcground green?  maybe i'm just an enhancement smoker ( https://youtu.be/E4GneX1jj94?t=46s ), but dollar bills have some gnarly patterns on them  
+	- i love "build your bounty".  i also like whats on the current landing page, "push open source forward".  i'll have to a/b test this.
+	- I got some feedback from a few people that the "O" is hard to see.  Is there anything we can do to compensate for that?
+	
+page 2
+
+love it
+	is it worth having some some of the 'rain' zig and zag?  kind of like a stock chart? ref => https://cdn3.iconfinder.com/data/icons/money-finance-1/372/icon_20-512.png
+	theres gotta be some gnarly way to work in the "too the moon" references that cryptocurrency people love.  just as long as the planetary parts of this are in the top right, i think it teases that!
+	the neon green kind of looks like a circuit. i wonder if there's some gnarly tron animation we could do on this as a user scrolls up / down the page.  
+	or maybe some sort of mario coin animation when a user earns a bounty. https://www.youtube.com/watch?v=lQl9lS9rgdA  i'm all about trying to create a dopamine hit in the users brain when they earn a bounty. 
+
+
+page 3
+
+i like the iterative approach that you guys took, BUT i am concerned that the smileys look too simplistic.  my first reaction (and the reaction of others i've showed this to) is that they just don't look pro.   
+	- maybe it's because the smileys are the only piece that are colored and therefore they "pop" more than the rest of the animation.  is there some middle ground or other tradeoff to make here?
+	- maybe if we never show a smiley by itself, that helps.   the smiley in the helmet looks _cool_.  the smileys on themselves look noob-ish 
+	- maybe there is an opportunity to add a little more details to the eyes?  one of the things i love about the github octocat is the wide eyes.
+
+
+page 4
+
+i love it
+
+page 5
+
+really like the direction here and can't wait to see what this looks like as we build it out more.  what direction should we go from here?  thinking out loud:
+	add a body?
+	add some more colors / more depth? 
+	the character looks a _little_ like megaman to me.  megaman's world has some cool inspiration in it, especially with respect to how the main character gains "powers" which are added to his suit, by beating "bosses"
+	theres kind of a "power rangers / megazord" and/or "transformers" feel to the avatar as he's gaining more levels.  
+
+favicon is cool
+
+could you set my expectations here?  how many different assets will we build out for the avatar and for thte world?  
+	
+page 6
+
+the logo looks purdy dope in white
+
+website
+
+can we make it "pop" more?  
+
+just kidding, i've just always wanted to say that cliche to a designer.
+
+as mentioned in the meeting, everything above the fold is great!
+	could the CTA be a little more centered on the page?
+	could the github link be more of a github logo?  i believe we can co-opt the octocat logo for this  if we follow their branding rules http://lipis.github.io/bootstrap-social/assets/img/bootstrap-social.png
+	i'm concerned that there are too many call to actions on the landing page, causing friction as the user has to decide what action to take.  
+	
+how it works section
+	if i decide against a video, and we do keep this section, i'd love to have some visuals here instead of just text.
+	
+why we're different section
+	i've actually got an updated version of this live at https://gitcoin.co/ (its the yellow section halfway down)
+	
+	
+further down on the landing page:
+	1) i wouldnt put a ton of work into the 'testimonials' section until i actually have testimonais.  simiarly, i'd love to have a logo roll for the press the project gets, but i don't have any press yet!
+	2) a 'token sale summary' would be useful info to work into the site.  https://aragon.network/ has a good example of this module just below the fold.  
+		the gitcoin token sale will go to 50% investors, 25% open source, 25% team + advisors
+		there will be 3 token sales. a presale (10%), an ICO (30%), and then a second ICO(10%). 
+		founders will have 4 years of vesting after the sale
+		price: 1 ether 1000 GIT
+	3) a token functionality module would add a lot of value too.  https://aragon.network/ is also a good example of this.
+	4) i'd love to work in a 'roadmap' module to visually display the project roadmap.  here's the latest roadmap i'm pitching to investors.  http://bits.owocki.com/23433a3T3L1O/Image%202017-07-20%20at%203.08.51%20PM.png
+		maybe just a timeline with callouts on a per-quarter basis would suffice for the website.
+	5) i'd love to have a module about the "team" and our values.  values being:
+	  	push open source forward
+		aligned incentives
+		create more value than you capture
+		community
+	6) i'd love to work the FAQ into this.
+	7) I've put the above in priority order.
+		
+
+next:
+
+i'd love it if we could have a mock of hte bounty explorer and repuation system by next time we meet. 
+	goal: connect developers with work in open source
+	the bounty explorer that i gave you in the original wireframes is still good inspiration.
+	through my customer development work, i've discovered that reputation is an important part of the system
+		some good examples of sites that've built good reputation systems: couchsurfing, airbnb, ebay, uber
+	
+
+
+	
+
+
+

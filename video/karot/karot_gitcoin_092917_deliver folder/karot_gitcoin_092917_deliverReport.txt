@@ -1,0 +1,72 @@
+Report created: 
+	12/5/2017	6:59:51 PM
+
+Project name: karot_gitcoin_092917_deliver.aep
+
+Source files collected to: 
+	E:\__JOBS\KAROT\gitcoin\ae\karot_gitcoin_092917_deliver folder
+
+Source files collected: All
+
+Collected comps:  
+	karot_gitcoin
+	gitcoin-office
+	gitcoin_divine
+	gitcoin_prime
+	gitcoin_divine_animate on
+	gitcoin_divine_hand helmet
+	gitcoin world
+	gitcoin_prime_animate on
+	gitcoin_regulus
+	gitcoin_regulus_animate on
+	gitcoin_divine_toss helmet
+	gitcoin world 2
+	gitcoin_endcard
+	gitcoin_puzzle
+	gitcoin puzzle 2
+	gitcoin_puzzle 1.2
+	karot_gitcoin_092917
+	gitcoin_divine_animate on_toss helmet
+	gitcoin_open
+	lightning flashes
+	coin falling precomp
+	scene 1
+	scene 2
+	scene3
+	asteroids
+	scene 4
+	coins falling
+	transition
+	end scene
+	
+Number of collected files:  9
+
+Size of collected files:  66.8 MB
+
+Collected source files: 
+	E:\__JOBS\KAROT\gitcoin\ai\gitcoin puzzle 2.ai
+	E:\__JOBS\KAROT\gitcoin\ai\gitcoin-office.ai
+	E:\__JOBS\KAROT\gitcoin\ai\gitcoin_divine.ai
+	E:\__JOBS\KAROT\gitcoin\ai\gitcoin_endcard.ai
+	E:\__JOBS\KAROT\gitcoin\ai\gitcoin_prime.ai
+	E:\__JOBS\KAROT\gitcoin\ai\gitcoin_puzzle.ai
+	E:\__JOBS\KAROT\gitcoin\ai\gitcoin_regulus.ai
+	E:\__JOBS\KAROT\gitcoin\KAROT_GITCOIN_Explainer_FINE.mp4
+	E:\__JOBS\KAROT\gitcoin\Temp VO Sequence.aac
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  3
+
+Effect:  Hue/Saturation
+	
+Effect:  Linear Wipe
+	
+Effect:  Wave Warp
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Futura PT”, Font style: “Book Oblique”
+
