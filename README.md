@@ -1,8 +1,20 @@
-# creative
+<table>
+<td width=100>
+<img src='img/helmet.png'/>
+</td>
+<td width=800>
+Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Open Source Forward. Learn more at https://gitcoin.co
+</td>
+</table>
 
-a repository of creative assets for the gitcoin.co project
+[Star](https://github.com/gitcoinco/creative/stargazers) and [watch](https://github.com/gitcoinco/creative/watchers) this github repository to stay up to date, we're pushing new code several times per week!
 
-# where to start
+
+# Gitcoin Creative Assets
+
+This is a repository of creative assets for the gitcoin.co project
+
+# Where to Start
 
 * [Press Kit](https://gitcoin.co/presskit)
 * [Brand Guidelines](https://github.com/gitcoinco/creative/blob/master/AFJ/Gitcoin-Brand_Assets/Full%20Brand/Gitcoin_Brand.pdf)
