@@ -17,7 +17,7 @@ This is a repository of creative assets for the gitcoin.co project
 # Where to Start
 
 * [Press Kit](https://gitcoin.co/presskit)
-* [Brand Guidelines](https://github.com/gitcoinco/creative/blob/master/AFJ/Gitcoin-Brand_Assets/Full%20Brand/Gitcoin_Brand.pdf)
+* [Brand Guidelines](https://github.com/gitcoinco/creative/tree/master/Brand/Brand%20Guide)
 * .... or... just poke around the folders 
 
 # Legal
