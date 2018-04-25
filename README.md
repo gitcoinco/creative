@@ -20,6 +20,17 @@ This is a repository of creative assets for the gitcoin.co project
 * [Brand Guidelines](https://github.com/gitcoinco/creative/tree/master/Brand/Brand%20Guide)
 * .... or... just poke around the folders 
 
+
+# Contributing
+
+Contributing Static Assets
+
+Please fork the repo, pull it down locally, add the assets to 00_Submissions, and push the changes to your fork.  Raise a pull request 
+
+Notes:
+Please remember to optimize/compress your image assets via: make compress-images (Requires: jpeq-recompress, optipng, and svgo in PATH)
+
+
 # Legal
 
 '''
