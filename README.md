@@ -28,9 +28,7 @@ Contributing Static Assets
 Please fork the repo, pull it down locally, add the assets to 00_Submissions, and push the changes to your fork.  Raise a pull request 
 
 Notes:
-Please remember to optimize/compress your image assets via: make compress-images (Requires: jpeq-recompress, optipng, and svgo in PATH)
-
-
+Please remember to upload the original source file (Sketch, .ai, etc) and optimized image assets.
 # Legal
 
 '''
