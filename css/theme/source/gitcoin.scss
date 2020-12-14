@@ -1,0 +1,145 @@
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+@import url(https://fonts.googleapis.com/css?family=Libre+Franklin:300,700,300italic,700italic);
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #0FCE7C;
+}
+a:hover {
+  color: lighten($color: #0FCE7C, $amount: 10%);
+}
+pre {
+  color: #0FCE7C;
+}
+b {
+  font-weight: bold;
+}
+// center vertically and horizontally on the viewport
+.main-page {
+  height: 100vh; 
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  justify-content: center;
+  margin: auto;
+}
+
+.gitcoin-logo {
+  display: block;
+  padding: 15px;
+  position: absolute;
+  width: 15vw;
+
+}
+
+.logo {
+  width: 25vw;
+  // height: 100.31px;
+  // background-color: aqua;
+}
+
+.content-box{
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.content-box.no-border {
+  border:0;
+}
+
+.border {
+  border: rgb(88, 88, 88);
+  border-style: solid;
+  margin: 3em;
+}
+
+.content-left{
+  text-align: left;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: 50%;
+  line-height: 1.5em;
+  padding: 1em;
+  margin: 0.5em;
+
+}
+.content-left ol {
+  padding-left: 1em;
+  padding: 1em;
+}
+.content-left ul {
+  padding-left: 1em;
+  padding: 1em;
+}
+.path-img { 
+  padding-left: 5em;
+  // height: 50vh;
+  // width: 24vh;
+  // width: auto;
+  height: 70vh;
+  // size: 20%;
+}
+// @media 
+//   (max-width: 736em) { 
+//   .path-img { 
+//     padding-left: 10em;
+//     height: 50vh;
+//   }
+// }
+
+@media 
+  (max-width: 768px) {
+    .path-img { 
+      padding-left: 10em;
+      // width: 5em;
+      height: 10vh;
+    }
+  }
+
+.content-right {
+  // justify-content: center;
+  // align-items: center;
+  flex-grow: 0;
+  // flex-shrink: 0;
+  flex-basis: 50%;
+  line-height: 1.5em;
+  padding: 1em;
+  margin: 0.5em;
+}
+
+.content-right ul {
+  padding-left: 1em;
+  padding-top: 2em;
+}
+
+.heading {
+  padding-left: 1.5em;
+  padding-top: 1.5em;
+}
+
+.mainFont {
+  font-family: 'Libre Franklin', sans-serif;
+  text-align: left;
+  letter-spacing: 0.04em;
+  color: aliceblue;
+}
+.mainFont.thin {
+  font-weight: 500;
+}
+.mainFont.thick {
+  font-weight: 520;
+}
+.mainFont.small {
+  font-size: 2vw;
+}
+.mainFont.tiny {
+  font-size: 1.5vw;
+}
+.mainFont.big {
+  font-size: 3vw;
+}
+

@@ -1,40 +1,28 @@
+<p align="center">
+  <a href="https://revealjs.com">
+  <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text.svg" alt="reveal.js" width="450">
+  </a>
+  <br><br>
+  <a href="https://github.com/hakimel/reveal.js/actions"><img src="https://github.com/hakimel/reveal.js/workflows/tests/badge.svg"></a>
+  <a href="https://slides.com/"><img src="https://s3.amazonaws.com/static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
+</p>
 
-This branch is used for shareable webpages.
+reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create fully featured and beautiful presentations for free. [Check out the live demo](https://revealjs.com/).
 
-<table>
-<td width=100>
-<img src='https://github.com/gitcoinco/gitcoinco/blob/master/img/helmet.png'/>
-</td>
-<td width=800>
-Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Open Source Forward. Learn more at https://gitcoin.co
-</td>
-</table>
+The framework comes with a broad range of features including [nested slides](https://revealjs.com/vertical-slides/), [Markdown support](https://revealjs.com/markdown/), [Auto-Animate](https://revealjs.com/auto-animate/), [PDF export](https://revealjs.com/pdf-export/), [speaker notes](https://revealjs.com/speaker-view/), [LaTeX support](https://revealjs.com/math/), [syntax highlighted code](https://revealjs.com/code/) and much more.
 
-[Star](https://github.com/gitcoinco/creative/stargazers) and [watch](https://github.com/gitcoinco/creative/watchers) this github repository to stay up to date, we're pushing new assets several times per week!
+<h1>
+  <a href="https://revealjs.com/installation" style="font-size: 3em;">Get Started</a>
+</h1>
 
+## Documentation
+The full reveal.js documentation is available at [revealjs.com](https://revealjs.com).
 
-# Gitcoin Creative Assets
+## Online Editor
+Want to create your presentation using a visual editor? Try the official reveal.js presentation platform for free at [Slides.com](https://slides.com). It's made by the same people behind reveal.js.
 
-This is a repository of creative assets for the gitcoin.co project
+## License
 
-# Where to Start
+MIT licensed
 
-* [Press Kit](https://gitcoin.co/presskit)
-* [Brand Guidelines](https://github.com/gitcoinco/creative/tree/master/Brand/Brand%20Guide)
-* .... or... just poke around the folders 
-
-
-# Contributing
-
-Contributing Static Assets
-
-Please fork the repo, pull it down locally, add the assets to 00_Submissions, and push the changes to your fork.  Raise a pull request 
-
-Notes:
-Please remember to upload the original source file (Sketch, .ai, etc) and optimized image assets.
-
-# License
-[Liscense](./liscense)
-
-<!-- Google Analytics -->
-<img src='https://ga-beacon.appspot.com/UA-102304388-1/gitcoinco/creative' style='width:1px; height:1px;' >
+Copyright (C) 2011-2020 Hakim El Hattab, https://hakim.se

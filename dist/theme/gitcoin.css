@@ -1,0 +1,105 @@
+@import url(https://fonts.googleapis.com/css?family=Libre+Franklin:300,700,300italic,700italic);
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #0FCE7C; }
+
+a:hover {
+  color: #21ef97; }
+
+pre {
+  color: #0FCE7C; }
+
+b {
+  font-weight: bold; }
+
+.main-page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto; }
+
+.gitcoin-logo {
+  display: block;
+  padding: 15px;
+  position: absolute;
+  width: 15vw; }
+
+.logo {
+  width: 25vw; }
+
+.content-box {
+  display: flex;
+  flex-direction: row; }
+
+.content-box.no-border {
+  border: 0; }
+
+.border {
+  border: #585858;
+  border-style: solid;
+  margin: 3em; }
+
+.content-left {
+  text-align: left;
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: 50%;
+  line-height: 1.5em;
+  padding: 1em;
+  margin: 0.5em; }
+
+.content-left ol {
+  padding-left: 1em;
+  padding: 1em; }
+
+.content-left ul {
+  padding-left: 1em;
+  padding: 1em; }
+
+.path-img {
+  padding-left: 5em;
+  height: 70vh; }
+
+@media (max-width: 768px) {
+  .path-img {
+    padding-left: 10em;
+    height: 10vh; } }
+
+.content-right {
+  flex-grow: 0;
+  flex-basis: 50%;
+  line-height: 1.5em;
+  padding: 1em;
+  margin: 0.5em; }
+
+.content-right ul {
+  padding-left: 1em;
+  padding-top: 2em; }
+
+.heading {
+  padding-left: 1.5em;
+  padding-top: 1.5em; }
+
+.mainFont {
+  font-family: 'Libre Franklin', sans-serif;
+  text-align: left;
+  letter-spacing: 0.04em;
+  color: aliceblue; }
+
+.mainFont.thin {
+  font-weight: 500; }
+
+.mainFont.thick {
+  font-weight: 520; }
+
+.mainFont.small {
+  font-size: 2vw; }
+
+.mainFont.tiny {
+  font-size: 1.5vw; }
+
+.mainFont.big {
+  font-size: 3vw; }
