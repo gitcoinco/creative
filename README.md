@@ -1,3 +1,6 @@
+
+This branch is used for shareable webpages.
+
 <table>
 <td width=100>
 <img src='https://github.com/gitcoinco/gitcoinco/blob/master/img/helmet.png'/>
