@@ -73,7 +73,8 @@ b {
   flex-basis: 50%;
   line-height: 1.5em;
   padding: 1em;
-  margin: 0.5em; }
+  margin: 0.5em;
+  text-align: left; }
 
 .content-right ul {
   padding-left: 1em;
@@ -85,7 +86,6 @@ b {
 
 .mainFont {
   font-family: 'Libre Franklin', sans-serif;
-  text-align: left;
   letter-spacing: 0.04em;
   color: aliceblue; }
 

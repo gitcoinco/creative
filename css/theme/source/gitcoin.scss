@@ -109,6 +109,7 @@ b {
   line-height: 1.5em;
   padding: 1em;
   margin: 0.5em;
+  text-align: left;
 }
 
 .content-right ul {
@@ -123,7 +124,7 @@ b {
 
 .mainFont {
   font-family: 'Libre Franklin', sans-serif;
-  text-align: left;
+  // text-align: left;
   letter-spacing: 0.04em;
   color: aliceblue;
 }
