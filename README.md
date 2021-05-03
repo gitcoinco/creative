@@ -37,11 +37,13 @@ Please fork the repo, pull it down locally, add the assets to 00_Submissions, an
 Notes:
 Please remember to upload the original source file (Sketch, .ai, etc) and optimized image assets.
 
+# Questions?
+* [Hit us up on Discord!](https://discord.com/invite/jWUzf7b8Yr) We are most responsive here, feel free to ask questions in the design space channel!
+
 # License
 [Liscense](./liscense)
 
 <!-- Google Analytics -->
 <img src='https://ga-beacon.appspot.com/UA-102304388-1/gitcoinco/creative' style='width:1px; height:1px;' >
 
-# Questions?
-* [Hit us up on Discord!](https://discord.com/invite/jWUzf7b8Yr) We are most responsive here, feel free to ask questions in the design space channel!
+
