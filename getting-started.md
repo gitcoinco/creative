@@ -27,3 +27,15 @@ Project 2
 Project 3  
 Project 4
 
+
+
+## Resources
+
+Take a look at these resources to familiarize yourslf 
+
+Our platform
+
+Articles to read \( Grants Vitalik article\)
+
+
+
