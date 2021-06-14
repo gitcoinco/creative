@@ -1,21 +1,28 @@
 # Table of contents
 
 * [Welcome to Gitcoin](README.md)
+* [Mission](mission.md)
 * [Getting Started](getting-started.md)
 * [Design Principles](principles.md)
+* [Typography](typography.md)
 
 ## Brand Voice
 
-* [Voice and Tone](brand-voice/voice-and-tone.md)
+---
+
+* [Voice and Tone](voice-and-tone.md)
 
 ## Brand Characteristics <a id="characteristics"></a>
 
-* [Typography](characteristics/typography.md)
-* [Logos](characteristics/logos.md)
-* [Colors](characteristics/colors.md)
-* [Illustrations](characteristics/illustrations.md)
-* [Icons](characteristics/icons.md)
-* [Kudos](characteristics/kudos.md)
+---
+
+* [Colors](colors.md)
+* [Typography](typography-1.md)
+* [Logos](logos.md)
+* [Illustrations](illustrations-1.md)
+* [Icons](icons.md)
+* [Kudos](kudos.md)
+* [Images](images.md)
 
 ## Components
 
@@ -32,6 +39,7 @@
 * [Progress](components/progress.md)
 * [Tabs](components/tabs.md)
 * [Tooltips](components/tooltips.md)
+* [Videos](components/videos.md)
 
 ## Resources
 
