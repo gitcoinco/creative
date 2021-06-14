@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   sodipodi:docname="gitcoin_heart_bot_small.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 29.328951 33.866669"
+   height="33.866669mm"
+   width="29.328951mm"
+   inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/gitcoin_heart_bot.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient115670">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop115666" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop115668" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient115296">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop115292" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop115294" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient115266"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop115264" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient115296"
+       id="radialGradient115298"
+       cx="161.12746"
+       cy="89.680763"
+       fx="161.12746"
+       fy="89.680763"
+       r="3.9752913"
+       gradientTransform="matrix(1.854683,-0.95549792,1.8299615,3.552057,-301.82526,-74.913466)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient115670"
+       id="radialGradient115768"
+       cx="149.69267"
+       cy="91.643654"
+       fx="149.69267"
+       fy="91.643654"
+       r="3.4928713"
+       gradientTransform="matrix(2.135634,0.21791484,-0.32091048,3.1450247,-140.58668,-229.19816)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient115670"
+       id="linearGradient117053"
+       x1="147.42734"
+       y1="88.929283"
+       x2="153.44923"
+       y2="88.929283"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient115296"
+       id="linearGradient117215"
+       x1="158.7592"
+       y1="83.487564"
+       x2="154.93422"
+       y2="83.159027"
+       gradientUnits="userSpaceOnUse" />
+    <style
+       id="style117405">.cls-1{fill:url(#_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_10);}.cls-2{isolation:isolate;}.cls-3{fill:#2e2544;}.cls-4{fill:url(#Gradiente_sem_nome_49);}.cls-34,.cls-39,.cls-5{fill:#fff;}.cls-6{fill:url(#Degradado_sin_nombre_62);}.cls-7{fill:#2a294f;}.cls-8{fill:url(#Degradado_sin_nombre_62-2);}.cls-9{fill:#95eade;}.cls-10{fill:#4ec9bc;}.cls-11{fill:#3bab9e;}.cls-12,.cls-13{fill:#ffc147;}.cls-13{opacity:0.3;}.cls-14{fill:#5d5d5d;}.cls-15{fill:#404040;}.cls-16,.cls-17{fill:#00e2ff;}.cls-17,.cls-20,.cls-22,.cls-33,.cls-35,.cls-37{mix-blend-mode:multiply;}.cls-18,.cls-37{fill:#224656;}.cls-19,.cls-20{fill:#1d3847;}.cls-20,.cls-22,.cls-33,.cls-35,.cls-37{opacity:0.5;}.cls-21,.cls-22{fill:#929497;}.cls-23{clip-path:url(#clip-path);}.cls-24{fill:#3e2222;}.cls-25{fill:#00b3a0;}.cls-26{fill:#ffb300;}.cls-27{fill:#51cfb3;}.cls-28{fill:#ff006c;}.cls-29{fill:#fde0ac;}.cls-30{fill:#ff7b23;}.cls-31{fill:#bd1e2d;}.cls-32{fill:#f6931e;}.cls-33{fill:#e5e6e7;}.cls-34{mix-blend-mode:soft-light;}.cls-35{fill:#c1002e;}.cls-36{fill:#325e6d;}.cls-38{fill:#0e222b;}.cls-39{opacity:0.7;}.cls-40{fill:url(#Gradiente_sem_nome_15);}.cls-41{fill:#e6e7e8;}.cls-42{fill:#25e899;}</style>
+    <linearGradient
+       id="_ÂÁ_Ï_ÌÌ_È_ËÂÌÚ_10"
+       x1="25.639601"
+       y1="86.2425"
+       x2="83.649597"
+       y2="86.2425"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#ff7b23"
+         id="stop117407" />
+      <stop
+         offset="1"
+         stop-color="#ff006c"
+         id="stop117409" />
+    </linearGradient>
+    <radialGradient
+       id="Gradiente_sem_nome_49"
+       cx="54.6231"
+       cy="14.249"
+       r="74.333"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         id="stop117412" />
+      <stop
+         offset="0.0664"
+         stop-color="#f0f7fb"
+         id="stop117414" />
+      <stop
+         offset="0.2395"
+         stop-color="#cfe5f2"
+         id="stop117416" />
+      <stop
+         offset="0.4176"
+         stop-color="#b5d8ec"
+         id="stop117418" />
+      <stop
+         offset="0.6003"
+         stop-color="#a3cee7"
+         id="stop117420" />
+      <stop
+         offset="0.7904"
+         stop-color="#98c8e4"
+         id="stop117422" />
+      <stop
+         offset="1"
+         stop-color="#94c6e3"
+         id="stop117424" />
+    </radialGradient>
+    <linearGradient
+       id="Degradado_sin_nombre_62"
+       x1="10.9529"
+       y1="64.137497"
+       x2="100.8896"
+       y2="64.137497"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#1ca79d"
+         id="stop117427" />
+      <stop
+         offset="1"
+         stop-color="#223370"
+         id="stop117429" />
+    </linearGradient>
+    <linearGradient
+       id="Degradado_sin_nombre_62-2"
+       x1="8.3278999"
+       y1="37.7938"
+       x2="36.905499"
+       y2="37.7938"
+       xlink:href="#Degradado_sin_nombre_62"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,110.54563,72.131265)" />
+    <clipPath
+       id="clip-path"
+       transform="translate(0.004 0.0038)">
+      <path
+         id="_Caminho_de_recorte_"
+         data-name="&lt;Caminho de recorte&gt;"
+         class="cls-1"
+         d="m 83.65,81.6375 v 11.14 h -2.41 c -0.1,0 -0.21,-0.01 -0.31,-0.02 a 2.6178,2.6178 0 0 1 -0.67,-0.16 2.2888,2.2888 0 0 1 -0.56,-0.29 2.6712,2.6712 0 0 1 -0.94,-1.03 l -0.05,-0.09 -0.19,-0.38 -0.6,-1.14 c 0,-0.01 -0.01,-0.01 -0.01,-0.02 -0.07,-0.12 -0.14,-0.23 -0.21,-0.34 a 2.987,2.987 0 0 0 -1.15,-0.91 2.7441,2.7441 0 0 0 -0.62,-0.18 1.9891,1.9891 0 0 0 -0.49,-0.05 h -6.27 a 2.8315,2.8315 0 0 0 -1.15,0.25 2.8794,2.8794 0 0 0 -1.33,1.25 l -0.4,0.75 -0.24,0.47 -0.21,0.39 a 2.758,2.758 0 0 1 -0.63,0.8 2.4649,2.4649 0 0 1 -0.54,0.37 2.8276,2.8276 0 0 1 -1.31,0.33 H 48.67 a 2.1863,2.1863 0 0 1 -0.36,-0.03 1.9517,1.9517 0 0 1 -0.54,-0.14 c -0.01,0 -0.01,-0.01 -0.02,-0.01 a 2.597,2.597 0 0 1 -0.87,-0.56 l -1.8,-1.8 a 2.5024,2.5024 0 0 0 -1.79,-0.74 h -9.52 a 2.3383,2.3383 0 0 0 -0.79,0.13 1.8177,1.8177 0 0 0 -0.45,0.2 2.3306,2.3306 0 0 0 -0.69,0.56 c -0.06,0.07 -0.11,0.14 -0.16,0.21 l -0.42,0.63 c -0.01,0 -0.02,0.02 -0.02,0.02 l -0.28,0.41 c -0.01,0.01 -0.01,0.01 -0.01,0.02 a 2.4862,2.4862 0 0 1 -0.6,0.61 2.3546,2.3546 0 0 1 -0.97,0.43 h -0.01 a 2.1358,2.1358 0 0 1 -0.5,0.06 h -3.23 v -13.07 h 56.98 v 0.33 l 1,1.56 z" />
+    </clipPath>
+    <linearGradient
+       id="Gradiente_sem_nome_15"
+       x1="25.639601"
+       y1="86.357498"
+       x2="83.649597"
+       y2="86.357498"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,110.54563,72.131265)">
+      <stop
+         offset="0"
+         stop-color="#ff7b23"
+         stop-opacity="0.3"
+         id="stop117435" />
+      <stop
+         offset="1"
+         stop-color="#ff006c"
+         stop-opacity="0.3"
+         id="stop117437" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="1440"
+     inkscape:window-height="1080"
+     inkscape:window-width="1920"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-global="false"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-others="true"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer5"
+     inkscape:document-units="mm"
+     inkscape:cy="34.175072"
+     inkscape:cx="-59.47777"
+     inkscape:zoom="1.5215769"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-grids="false"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true">
+    <sodipodi:guide
+       id="guide865"
+       orientation="1,0"
+       position="-41.919349,60.962016" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="background"
+     id="layer2"
+     inkscape:groupmode="layer"
+     style="display:inline"
+     transform="translate(-139.87363,-72.13026)">
+    <path
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 154.5394,75.005535 -13.64698,6.460799 0.39124,14.910861 13.25568,6.745005 13.82731,-7.136252 -0.26083,-14.910861 z"
+       id="path89650"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="depression"
+     style="display:inline"
+     transform="translate(-139.87363,-72.13026)">
+    <g
+       id="g10356"
+       transform="translate(35.400811,-1.4174027)"
+       style="display:inline"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <g
+         id="g9247">
+        <path
+           style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.048;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 121.03585,84.558934 3.72981,-0.679369 1.98591,5.70992 -7.9536,6.926413 0.01,-8.472356 z"
+           id="path833-8"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           id="path969"
+           d="m 118.80795,88.040461 0.65869,0.64774 2.22932,-3.480925 -0.65887,-0.647507 z"
+           style="fill:#f9006c;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           id="path971"
+           d="m 125.02082,84.602661 -0.25114,-0.721402 -3.73238,0.67859 0.65866,0.647427 z"
+           style="font-variation-settings:normal;vector-effect:none;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000" />
+        <path
+           id="path1014"
+           d="m 118.80777,88.040694 0.65887,0.647507 -0.008,7.240899 -0.66042,0.574127 z"
+           style="font-variation-settings:normal;vector-effect:none;fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000" />
+      </g>
+      <path
+         style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.048;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 116.03093,84.567852 -3.72981,-0.679369 -1.98591,5.70992 7.9536,6.926413 -0.01,-8.472356 z"
+         id="path833-8-8"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         style="fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 112.30112,83.888482 3.72981,0.67937 0.38214,0.59771 -3.45184,-0.62874 z"
+         id="path5335" />
+      <path
+         style="fill:#f9006c;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 110.31521,89.598401 1.98591,-5.709919 0.66011,0.64834 -1.9663,5.653521 z"
+         id="path5337" />
+    </g>
+    <path
+       style="color:#000000;fill:url(#linearGradient117053);fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 148.57031,83.402344 a 0.1825,0.1825 0 0 0 -0.21679,0.140625 0.1825,0.1825 0 0 0 0.14062,0.214843 l 3,0.638672 0.39648,0.66211 -3.50976,-0.644532 a 0.18251825,0.18251825 0 0 0 -0.20899,0.128907 l -0.24414,0.830078 a 0.18251825,0.18251825 0 0 0 0.14258,0.230469 l 4.34766,0.773437 0.47656,0.763672 -4.80273,-0.857422 a 0.18251825,0.18251825 0 0 0 -0.19922,0.109375 l -0.45117,1.082031 a 0.18251825,0.18251825 0 0 0 0.13671,0.25 l 5.50586,0.988282 v 1.277343 L 147.86523,88.8125 a 0.18251825,0.18251825 0 0 0 -0.17187,0.304687 l 1.69141,1.751954 a 0.18251825,0.18251825 0 0 0 0.0918,0.05078 l 3.48438,0.767578 v 1.353516 l -2.06641,-0.689454 a 0.18251825,0.18251825 0 0 0 -0.16601,0.320313 l 2.33593,1.751953 a 0.1825,0.1825 0 0 0 0.25586,-0.03711 0.1825,0.1825 0 0 0 -0.0371,-0.25586 l -1.43359,-1.076172 1.23633,0.41211 a 0.18251825,0.18251825 0 0 0 0.24023,-0.173828 v -1.751953 a 0.18251825,0.18251825 0 0 0 -0.14453,-0.177735 l -3.57227,-0.787109 -1.22851,-1.273438 4.8457,1.095703 a 0.18251825,0.18251825 0 0 0 0.22266,-0.177734 v -1.660156 a 0.18251825,0.18251825 0 0 0 -0.15039,-0.179688 l -5.43164,-0.974609 0.30468,-0.738281 5.0625,0.904297 a 0.18251825,0.18251825 0 0 0 0.18555,-0.277344 l -0.73633,-1.179688 a 0.18251825,0.18251825 0 0 0 -0.12304,-0.08398 l -4.22461,-0.751953 0.14062,-0.476563 3.7461,0.6875 a 0.18251825,0.18251825 0 0 0 0.18945,-0.273437 l -0.64649,-1.076172 a 0.18251825,0.18251825 0 0 0 -0.11914,-0.08398 z"
+       id="path111248"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="color:#000000;fill:url(#linearGradient117215);fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 160.17187,83.4375 -2.64257,0.546875 a 0.18251825,0.18251825 0 0 0 -0.11133,0.07031 l -0.83985,1.164063 a 0.18251825,0.18251825 0 0 0 0.18165,0.285156 l 3.50585,-0.662109 0.14063,0.474609 -4.22656,0.751953 a 0.18251825,0.18251825 0 0 0 -0.12305,0.08203 l -0.73633,1.18164 a 0.18251825,0.18251825 0 0 0 0.1875,0.275391 l 5.13086,-0.953125 0.25391,0.785156 -5.44922,0.976563 a 0.18251825,0.18251825 0 0 0 -0.15039,0.179687 v 1.660156 a 0.18251825,0.18251825 0 0 0 0.22265,0.177735 l 4.84571,-1.09375 -1.22852,1.273437 -3.57422,0.78711 a 0.18251825,0.18251825 0 0 0 -0.14257,0.177734 v 1.751953 a 0.18251825,0.18251825 0 0 0 0.29882,0.138672 l 2.05078,-1.734375 1.96094,-0.326172 a 0.1825,0.1825 0 0 0 0.15039,-0.210937 0.1825,0.1825 0 0 0 -0.20898,-0.150391 l -2.01172,0.335937 a 0.18251825,0.18251825 0 0 0 -0.0879,0.03906 l -1.78711,1.513672 v -1.210938 l 3.48242,-0.767578 a 0.18251825,0.18251825 0 0 0 0.0918,-0.05078 l 1.6914,-1.751953 A 0.18251825,0.18251825 0 0 0 160.875,88.849609 l -5.2168,1.177735 V 88.75 l 5.50586,-0.988281 a 0.18251825,0.18251825 0 0 0 0.14063,-0.236328 l -0.36914,-1.136719 a 0.18251825,0.18251825 0 0 0 -0.20703,-0.123047 l -4.87891,0.90625 0.47461,-0.759766 4.34765,-0.771484 a 0.18251825,0.18251825 0 0 0 0.14258,-0.232422 l -0.24609,-0.828125 a 0.18251825,0.18251825 0 0 0 -0.20899,-0.128906 l -3.21875,0.609375 0.53125,-0.734375 2.57422,-0.53125 a 0.1825,0.1825 0 0 0 0.14063,-0.214844 0.1825,0.1825 0 0 0 -0.21485,-0.142578 z"
+       id="path111248-7"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     style="display:inline"
+     transform="translate(-139.87363,-72.13026)">
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.25477px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 150.24686,83.851013 -0.86148,-0.939425 -0.0174,-7.027053"
+       id="path13962"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.246399px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 149.37248,83.747129 148.5028,82.876712 148.4852,76.36585"
+       id="path13962-4"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 151.22794,83.981942 -0.85186,-1.024625 -0.002,-3.455706"
+       id="path13962-4-9"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <circle
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path55608"
+       cx="150.37424"
+       cy="79.50161"
+       r="0.36616442"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <circle
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path55608-8"
+       cx="154.93422"
+       cy="81.133011"
+       r="0.36616442"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <circle
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path55608-8-7"
+       cx="152.56064"
+       cy="79.445869"
+       r="0.36616442"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <circle
+       style="fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path55608-8-7-1"
+       cx="157.25958"
+       cy="81.835846"
+       r="0.36616442"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 156.83649,84.784784 -1.06305,-0.708705 v -8.929688"
+       id="path61395"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 155.99727,85.893738 -1.06305,-0.708705 v -4.052019"
+       id="path61395-1"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 152.56064,79.44587 v 4.11049 l 1.15755,1.771764 V 74.981027"
+       id="path64601"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 160.34352,83.477164 0.82995,-0.307392 v -5.148829"
+       id="path70597"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#ececec;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 157.25959,76.858314 v 4.977532"
+       id="path79312"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <g
+       id="g86776"
+       transform="translate(-0.32276237,-0.26128382)"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <circle
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#ececec;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="path83880"
+         cx="159.45491"
+         cy="80.749054"
+         r="0.67381436" />
+      <circle
+         style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.362446;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="path83882"
+         cx="159.45491"
+         cy="80.749054"
+         r="0.31034967" />
+    </g>
+    <g
+       id="g86776-4"
+       transform="translate(-0.37917154,15.126739)"
+       style="display:inline"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <circle
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#ececec;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="path83880-5"
+         cx="159.45491"
+         cy="80.749054"
+         r="0.67381436" />
+      <circle
+         style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.362446;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="path83882-7"
+         cx="159.45491"
+         cy="80.749054"
+         r="0.31034967" />
+    </g>
+    <g
+       id="g86776-8"
+       transform="translate(-9.2623703,17.689798)"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <circle
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:#ececec;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="path83880-4"
+         cx="159.45491"
+         cy="80.749054"
+         r="0.67381436" />
+      <circle
+         style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.362446;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="path83882-0"
+         cx="159.45491"
+         cy="80.749054"
+         r="0.31034967" />
+    </g>
+    <circle
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path55608-89"
+       cx="159.11465"
+       cy="97.686592"
+       r="0.36616442"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <circle
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path55608-89-1"
+       cx="148.72485"
+       cy="94.376106"
+       r="0.36616442"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <circle
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.0649999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path55608-89-1-2"
+       cx="154.57111"
+       cy="96.377197"
+       r="0.36616442"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:none;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 158.78137,92.51475 -3.32587,2.513912 v 8.782228"
+       id="path88131"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:none;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 156.80313,103.11534 v -7.738 l 3.1078,-2.172317"
+       id="path88133"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:none;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 154.57111,102.55866 V 96.377195"
+       id="path88135"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:none;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 152.62983,102.85451 v -5.433991 l -2.89355,-1.652759 -0.0435,-7.941639"
+       id="path88137"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:none;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 151.66022,101.15397 v -3.29873 l -2.91362,-1.717141 -0.0217,-1.761993"
+       id="path88567"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:none;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 157.97687,101.68077 V 91.808331"
+       id="path88682"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:none;stroke:#e6e6e6;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 159.11466,101.46865 V 97.686593"
+       id="path88976"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="display:inline;fill:none;stroke:#e6e6e6;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 153.36885,102.91971 v -7.520634 l -1.3259,-0.869436"
+       id="path102259"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:none;stroke:#e6e6e6;stroke-width:0.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 156.09403,102.82287 v -7.377429 l 2.50525,-1.875094"
+       id="path102581"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:none;stroke:#e6e6e6;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 156.43216,75.649351 v 8.299603 l 0.82996,0.568677"
+       id="path104154"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="crystals"
+     style="display:inline"
+     transform="translate(-139.87363,-72.13026)">
+    <g
+       id="g87082"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <g
+         id="g51887-1"
+         transform="matrix(-1.1477569,0,0,1.1477569,332.9386,-17.933302)">
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.36738;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 151.11881,89.136812 -3.05862,-0.557113 -1.62853,4.682394 6.52231,5.679974 -0.008,-6.947718 z"
+           id="path833-8-8-8-9"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:0.207057;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 149.07335,90.937069 -1.72384,-0.313991 -0.91785,2.639015 3.676,3.201252 -0.005,-3.915757 z"
+           id="path833-8-8-8-76-3"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:#f9006c;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 147.34951,90.623077 0.71068,-2.04338 3.05862,0.557115 -2.04546,1.800256 z"
+           id="path27670-9" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 151.11881,89.136812 -2.04546,1.800256 1.02931,1.610519 2.84331,-0.553238 z"
+           id="path30281-1" />
+        <path
+           style="fill:#ffaaaa;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 150.10266,92.547587 0.005,3.915757 2.84631,2.478722 -0.008,-6.947717 z"
+           id="path37104-0" />
+        <path
+           style="fill:#f4d7d7;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 149.588,91.742328 3.35797,0.252021 -2.84331,0.553238 z"
+           id="path37285-4" />
+        <path
+           style="fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 151.11881,89.136812 -2.90738,1.64326 0.86192,0.156996 z"
+           id="path37466-9" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 147.78869,91.328495 -1.35703,1.933597 0.91785,-2.639015 z"
+           id="path41801-0" />
+        <path
+           style="fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 147.78869,91.328493 2.31897,5.134851 -1.838,-1.600626 z"
+           id="path44763-0" />
+        <path
+           style="fill:#f4d7d7;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 150.10516,94.505467 2.84881,4.436599 -2.84631,-2.478722 z"
+           id="path50272-0" />
+      </g>
+      <path
+         style="fill:#ffffff;stroke:none;stroke-width:0.165;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 163.49787,90.119462 1.22425,-1.052028 -0.64861,-0.123837 z"
+         id="path69399"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g87055">
+        <g
+           id="g51887"
+           transform="translate(0,-2.1166667)">
+          <path
+             style="fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.36738;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 151.11881,89.136812 -3.05862,-0.557113 -1.62853,4.682394 6.52231,5.679974 -0.008,-6.947718 z"
+             id="path833-8-8-8"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             style="fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:0.207057;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 149.07335,90.937069 -1.72384,-0.313991 -0.91785,2.639015 3.676,3.201252 -0.005,-3.915757 z"
+             id="path833-8-8-8-76"
+             sodipodi:nodetypes="cccccc" />
+          <path
+             style="fill:#f9006c;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 147.34951,90.623077 0.71068,-2.04338 3.05862,0.557115 -2.04546,1.800256 z"
+             id="path27670" />
+          <path
+             style="fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 151.11881,89.136812 -2.04546,1.800256 1.02931,1.610519 2.84331,-0.553238 z"
+             id="path30281" />
+          <path
+             style="fill:#ffaaaa;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 150.10266,92.547587 0.005,3.915757 2.84631,2.478722 -0.008,-6.947717 z"
+             id="path37104" />
+          <path
+             style="fill:#f4d7d7;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 149.588,91.742328 3.35797,0.252021 -2.84331,0.553238 z"
+             id="path37285" />
+          <path
+             style="fill:#ff2a2a;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 151.11881,89.136812 -2.90738,1.64326 0.86192,0.156996 z"
+             id="path37466" />
+          <path
+             style="fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 147.78869,91.328495 -1.35703,1.933597 0.91785,-2.639015 z"
+             id="path41801" />
+          <path
+             style="fill:#ff8080;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 147.78869,91.328493 2.31897,5.134851 -1.838,-1.600626 z"
+             id="path44763" />
+          <path
+             style="fill:#f4d7d7;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 150.10516,94.505467 2.84881,4.436599 -2.84631,-2.478722 z"
+             id="path50272" />
+        </g>
+        <path
+           style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 147.78869,89.211826 1.28466,-0.391427 -0.86192,-0.156996 z"
+           id="path70416" />
+      </g>
+    </g>
+    <g
+       id="g108960"
+       transform="translate(0.01002828,0.13832673)"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <ellipse
+         style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.224159;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="path108773"
+         cx="154.5528"
+         cy="88.384621"
+         rx="0.19856673"
+         ry="0.38424093" />
+      <ellipse
+         style="display:inline;fill:#f9006c;fill-opacity:1;stroke:none;stroke-width:0.168594;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="path108773-7"
+         cx="154.49429"
+         cy="88.384621"
+         rx="0.14005484"
+         ry="0.3081651" />
+    </g>
+    <g
+       id="g108960-2"
+       style="display:inline"
+       transform="translate(0.01002828,2.5027376)"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <ellipse
+         style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.224159;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="path108773-8"
+         cx="154.5528"
+         cy="88.384621"
+         rx="0.19856673"
+         ry="0.38424093" />
+      <ellipse
+         style="display:inline;fill:#f9006c;fill-opacity:1;stroke:none;stroke-width:0.168594;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="path108773-7-0"
+         cx="154.49429"
+         cy="88.384621"
+         rx="0.14005484"
+         ry="0.3081651" />
+    </g>
+    <g
+       id="g108960-2-0"
+       style="display:inline"
+       transform="translate(0.01002828,4.8671455)"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <ellipse
+         style="display:inline;opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.224159;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="path108773-8-8"
+         cx="154.5528"
+         cy="88.384621"
+         rx="0.19856673"
+         ry="0.38424093" />
+      <ellipse
+         style="display:inline;fill:#f9006c;fill-opacity:1;stroke:none;stroke-width:0.168594;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+         id="path108773-7-0-2"
+         cx="154.49429"
+         cy="88.384621"
+         rx="0.14005484"
+         ry="0.3081651" />
+    </g>
+    <path
+       style="color:#000000;fill:url(#radialGradient115298);fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 162.95898,83.505859 -3.50976,0.638672 a 0.23252325,0.23252325 0 0 0 -0.1543,0.103516 l -2.09765,3.28125 a 0.23252325,0.23252325 0 0 0 -0.0371,0.125 l -0.008,7.972656 a 0.23252325,0.23252325 0 0 0 0.38477,0.175781 l 7.48633,-6.517578 a 0.23252325,0.23252325 0 0 0 0.0664,-0.251953 l -1.86914,-5.375 a 0.23252325,0.23252325 0 0 0 -0.26172,-0.152344 z m -0.11132,0.492188 1.75195,5.039062 -6.98242,6.080078 0.01,-7.394531 2.00586,-3.138672 z"
+       id="path113106"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="color:#000000;fill:url(#radialGradient115768);fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="m 148.10156,86.234375 a 0.23252325,0.23252325 0 0 0 -0.26172,0.152344 l -1.62695,4.68164 a 0.23252325,0.23252325 0 0 0 0.0664,0.251953 L 152.80078,97 a 0.23252325,0.23252325 0 0 0 0.38477,-0.175781 l -0.008,-6.947266 a 0.23252325,0.23252325 0 0 0 -0.0351,-0.125 l -1.82813,-2.857422 a 0.23252325,0.23252325 0 0 0 -0.15429,-0.103515 z m 0.11328,0.492187 2.76172,0.503907 1.73633,2.714843 0.008,6.367188 -6.01758,-5.238281 z"
+       id="path113108"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="frame"
+     style="display:inline;opacity:1"
+     transform="translate(-139.87363,-72.13026)">
+    <path
+       id="polygon869-2"
+       style="color:#000000;fill:#f9006c;fill-opacity:1;stroke-width:0.264583;-inkscape-stroke:none"
+       d="m 154.5394,72.13026 -14.66577,8.466667 V 97.53026 l 2.8789,1.661395 0.0527,0.03204 11.73416,6.773235 14.66319,-8.466671 V 80.596927 Z m 0,2.875275 12.17342,7.029029 V 96.09262 l -12.17342,7.02903 -12.17548,-7.02903 V 82.034564 Z"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.264583"
+       id="path875"
+       d="m 154.53934,75.004956 -12.17346,7.02998 v 14.057312 l 12.17346,7.029952 12.17348,-7.029952 V 82.034936 Z m 11.72106,20.806834 -11.68929,6.74687 -11.68932,-6.74687 V 82.315394 l 11.68932,-6.749521 11.68929,6.749521 z"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <g
+       id="g120147-1"
+       style="display:inline"
+       transform="translate(29.612567,-0.19079585)"
+       inkscape:export-filename="/Users/kyy/projects/gitcoin_bounties/test.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <path
+         class="cls-5"
+         d="m 128.43607,102.73758 0.41418,-0.23797 0.0189,0.0326 a 0.80295749,0.80295749 0 0 1 0.0889,0.21548 0.50096208,0.50096208 0 0 1 -10e-4,0.20153 0.52445708,0.52445708 0 0 1 -0.26458,0.36124 0.56393291,0.56393291 0 0 1 -0.44778,0.0556 0.60240333,0.60240333 0 0 1 -0.13745,-1.10432 0.59017958,0.59017958 0 0 1 0.24699,-0.0783 0.72710145,0.72710145 0 0 1 0.28088,0.045 l -0.0486,0.16563 a 0.42129604,0.42129604 0 0 0 -0.39481,0.009 0.41232666,0.41232666 0 0 0 -0.20373,0.26355 0.4227777,0.4227777 0 0 0 0.0478,0.33203 0.40788166,0.40788166 0 0 0 0.27856,0.20671 0.41648062,0.41648062 0 0 0 0.30205,-0.0397 0.34803291,0.34803291 0 0 0 0.15684,-0.19019 0.31115,0.31115 0 0 0 -0.005,-0.23873 l -0.25037,0.14391 z"
+         id="path118487-1"
+         style="isolation:isolate;stroke-width:0.264583" />
+      <rect
+         class="cls-5"
+         x="61.098362"
+         y="152.58385"
+         width="0.1744927"
+         height="1.1566526"
+         transform="rotate(-29.9467)"
+         id="rect118489-3"
+         style="isolation:isolate;stroke-width:0.264583" />
+      <polygon
+         class="cls-5"
+         points="73.74,110.461 72.869,110.962 72.559,110.424 74.869,109.094 75.178,109.631 74.311,110.13 76.181,113.382 75.611,113.711 "
+         id="polygon118491-0"
+         transform="matrix(0.26458333,0,0,0.26458333,110.54457,72.13026)"
+         style="isolation:isolate" />
+      <path
+         class="cls-5"
+         d="m 131.57077,100.36564 0.10282,0.17904 a 0.48331437,0.48331437 0 0 0 -0.33459,0.0463 0.40049979,0.40049979 0 0 0 -0.19664,0.26072 0.43214395,0.43214395 0 0 0 0.0491,0.3315 0.42174583,0.42174583 0 0 0 0.25967,0.20516 0.40790812,0.40790812 0 0 0 0.32374,-0.0419 0.3730625,0.3730625 0 0 0 0.12041,-0.10411 0.44235687,0.44235687 0 0 0 0.0444,-0.0721 0.90328749,0.90328749 0 0 0 0.0397,-0.0941 l 0.10515,0.18269 a 0.62925853,0.62925853 0 0 1 -0.23048,0.23098 0.58105145,0.58105145 0 0 1 -0.45268,0.0609 0.57475437,0.57475437 0 0 1 -0.36174,-0.27781 0.5958152,0.5958152 0 0 1 -0.0695,-0.41445 0.57967562,0.57967562 0 0 1 0.29739,-0.41574 0.58930645,0.58930645 0 0 1 0.3031,-0.0773"
+         id="path118493-7"
+         style="isolation:isolate;stroke-width:0.264583" />
+      <path
+         class="cls-42"
+         d="m 132.30404,100.32069 a 0.56673749,0.56673749 0 0 1 -0.054,-0.45244 0.59187291,0.59187291 0 0 1 0.28397,-0.366131 0.60520791,0.60520791 0 0 1 0.8214,0.22143 0.56885416,0.56885416 0 0 1 0.0566,0.455801 0.61163728,0.61163728 0 0 1 -0.71363,0.43304 0.56721374,0.56721374 0 0 1 -0.39423,-0.2917 m 0.15322,-0.0861 a 0.4291277,0.4291277 0 0 0 0.79092,-0.0938 0.44910374,0.44910374 0 0 0 -0.30801,-0.537951 0.40703499,0.40703499 0 0 0 -0.32657,0.04263 0.41179749,0.41179749 0 0 0 -0.2013,0.260958 0.41804166,0.41804166 0 0 0 0.045,0.328083"
+         id="path118495-2"
+         style="isolation:isolate;stroke-width:0.264583" />
+      <rect
+         class="cls-5"
+         x="66.22702"
+         y="152.60803"
+         width="0.17454562"
+         height="1.156335"
+         transform="rotate(-29.9673)"
+         id="rect118497-3"
+         style="isolation:isolate;stroke-width:0.264583" />
+      <polygon
+         class="cls-5"
+         points="92.704,98.83 93.275,98.502 95.589,102.522 91.165,101.228 92.693,103.88 92.121,104.21 89.792,100.163 94.22,101.464 "
+         id="polygon118499-5"
+         transform="matrix(0.26458333,0,0,0.26458333,110.54457,72.13026)"
+         style="isolation:isolate" />
+    </g>
+  </g>
+  <style
+     type="text/css"
+     id="style867">
+	.st0{fill:#FFFFFF;}
+	.st1{opacity:0.13;enable-background:new    ;}
+</style>
+</svg>
