@@ -1,2 +1,2 @@
-# Principles
+# Design Principles
 

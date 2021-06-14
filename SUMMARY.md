@@ -1,22 +1,21 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Principles](principles.md)
+* [Welcome to Gitcoin](README.md)
 * [Getting Started](getting-started.md)
+* [Design Principles](principles.md)
 
-## Visuals
+## Brand Voice
 
-* [Grids](visuals/grids.md)
-* [Typography](visuals/typography.md)
-* [Colors](visuals/colors.md)
-* [Icons](visuals/icons.md)
-* [Illustrations](visuals/illustrations.md)
-* [Brand Assets](visuals/brand-assets.md)
-* [Kudos](visuals/kudos.md)
+* [Voice and Tone](brand-voice/voice-and-tone.md)
 
-## Copy
+## Brand Characteristics <a id="characteristics"></a>
 
-* [Voice and Tone](copy/voice-and-tone.md)
+* [Typography](characteristics/typography.md)
+* [Logos](characteristics/logos.md)
+* [Colors](characteristics/colors.md)
+* [Illustrations](characteristics/illustrations.md)
+* [Icons](characteristics/icons.md)
+* [Kudos](characteristics/kudos.md)
 
 ## Components
 
@@ -27,6 +26,7 @@
 * [Cards](components/cards.md)
 * [Filters](components/filters.md)
 * [Forms](components/forms.md)
+* [Grids](components/grids.md)
 * [Modal](components/modal.md)
 * [Navigation](components/navigation.md)
 * [Progress](components/progress.md)
