@@ -14,12 +14,11 @@
 
 ---
 
-* [Colors](colors.md)
-* [Typography](typography-1.md)
 * [Logos](logos.md)
+* [Colors](colors.md)
+* [Fonts](fonts.md)
 * [Illustrations](illustrations-1.md)
 * [Icons](icons.md)
-* [Kudos](kudos.md)
 * [Images](images.md)
 
 ## Components
@@ -37,10 +36,12 @@
 * [Progress](components/progress.md)
 * [Tabs](components/tabs.md)
 * [Tooltips](components/tooltips.md)
+* [Typography](components/typography-1.md)
 * [Videos](components/videos.md)
 
 ## Resources
 
 * [Brand Guide](resources/brand-guide.md)
+* [Kudos](resources/kudos.md)
 * [Figma Library](resources/figma-library.md)
 

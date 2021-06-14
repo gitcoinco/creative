@@ -6,6 +6,12 @@ description: >-
 
 # Colors
 
+### Gitcoin Colors
+
+Show all colors without Tints here
+
+
+
 ### Primary Colors
 
 This color should be displayed most frequently and be used for important actions

@@ -1,5 +1,9 @@
 # Illustrations
 
+## Why we user illustrations, what we use it for
+
+## Characteristics of our Illustrations
+
 ## Sample Illustrations
 
 ![](.gitbook/assets/illustration_gitcoin1.png)
