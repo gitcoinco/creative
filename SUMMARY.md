@@ -1,10 +1,8 @@
 # Table of contents
 
 * [Welcome to Gitcoin](README.md)
-* [Mission](mission.md)
 * [Getting Started](getting-started.md)
 * [Design Principles](principles.md)
-* [Typography](typography.md)
 
 ## Brand Voice
 
