@@ -47,9 +47,6 @@ This color should be used for backgrounds, icons, and division lines.
 ### Cascading Style Sheets
 
 ```css
-$gc-purple: #0D0764;
-$gc-grey: #EEEEEE;
-
 $gc-grey-500: #0E0333;
 $gc-grey-400: #757087;
 $gc-grey-300: #A7A2B6;
