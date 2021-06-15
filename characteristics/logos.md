@@ -1,6 +1,6 @@
 # Logos
 
-## Gitcoin Logo
+## Gitcoin Logo hi
 
 Our mission is to build and fund digital public goods We empower communities of builders to connect and work together to create the future of the open web.
 
