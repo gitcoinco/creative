@@ -1,2 +1,0 @@
-# Funders League Logos
-

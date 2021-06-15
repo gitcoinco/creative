@@ -14,9 +14,9 @@
 * [Colors](characteristics/colors.md)
 * [Typography](characteristics/fonts.md)
 * [Illustrations](characteristics/illustrations-1/README.md)
+  * [imagery](characteristics/illustrations-1/images.md)
   * [Kudos](characteristics/illustrations-1/kudos.md)
 * [Icons](characteristics/icons.md)
-* [Images](characteristics/images.md)
 
 ## Components
 
@@ -38,6 +38,5 @@
 
 ## Resources
 
-* [Funders League Logos](resources/funders-league-logos.md)
-* [Figma Library](resources/figma-library.md)
+* [Creative Repo](resources/figma-library.md)
 

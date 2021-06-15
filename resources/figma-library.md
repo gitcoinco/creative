@@ -1,4 +1,16 @@
-# Figma Library
+# Creative Repo
 
-[View Gitcoin Design System Figma Library](https://www.figma.com/file/JTzaUKVxnGEmlaD3L8KsSm/Gitcoin-Design-System?node-id=1672%3A8921)
+What's on the repo
+
+Describe folder structure
+
+Submissions
+
+Quality
+
+
+
+View Gitcoin Design System Figma Library
+
+
 
