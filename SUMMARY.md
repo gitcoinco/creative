@@ -24,6 +24,7 @@
 ## Components
 
 * [Accordion](components/accordion.md)
+* [Blockchain Components](components/blockchain-components.md)
 * [Alerts](components/alerts.md)
 * [Badges](components/badges.md)
 * [Buttons](components/buttons.md)
