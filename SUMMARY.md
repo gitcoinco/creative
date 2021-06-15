@@ -21,7 +21,6 @@
 ## Components
 
 * [Accordion](components/accordion.md)
-* [Blockchain Components](components/blockchain-components.md)
 * [Alerts](components/alerts.md)
 * [Badges](components/badges.md)
 * [Buttons](components/buttons.md)
@@ -35,8 +34,10 @@
 * [Tabs](components/tabs.md)
 * [Tooltips](components/tooltips.md)
 * [Videos](components/videos.md)
+* [Web3](components/blockchain-components.md)
 
 ## Resources
 
+* [Funders League Logos](resources/funders-league-logos.md)
 * [Figma Library](resources/figma-library.md)
 
