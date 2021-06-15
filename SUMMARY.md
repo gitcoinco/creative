@@ -1,22 +1,25 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Principles](principles.md)
+* [Welcome to Gitcoin](README.md)
 * [Getting Started](getting-started.md)
+* [Design Principles](principles.md)
 
-## Visuals
+## Brand Voice
 
-* [Grids](visuals/grids.md)
-* [Typography](visuals/typography.md)
-* [Colors](visuals/colors.md)
-* [Icons](visuals/icons.md)
-* [Illustrations](visuals/illustrations.md)
-* [Brand Assets](visuals/brand-assets.md)
-* [Kudos](visuals/kudos.md)
+---
 
-## Copy
+* [Voice and Tone](voice-and-tone.md)
 
-* [Voice and Tone](copy/voice-and-tone.md)
+## Brand Characteristics <a id="characteristics"></a>
+
+---
+
+* [Logos](logos.md)
+* [Colors](colors.md)
+* [Fonts](fonts.md)
+* [Illustrations](illustrations-1.md)
+* [Icons](icons.md)
+* [Images](images.md)
 
 ## Components
 
@@ -27,14 +30,18 @@
 * [Cards](components/cards.md)
 * [Filters](components/filters.md)
 * [Forms](components/forms.md)
+* [Grids](components/grids.md)
 * [Modal](components/modal.md)
 * [Navigation](components/navigation.md)
 * [Progress](components/progress.md)
 * [Tabs](components/tabs.md)
 * [Tooltips](components/tooltips.md)
+* [Typography](components/typography-1.md)
+* [Videos](components/videos.md)
 
 ## Resources
 
 * [Brand Guide](resources/brand-guide.md)
+* [Kudos](resources/kudos.md)
 * [Figma Library](resources/figma-library.md)
 
