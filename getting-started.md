@@ -14,8 +14,6 @@ Brows the Gitcoin.co site, see something that could be improved? Feel free to su
 
 \( Need ot think through this, how does a user PR the creative repo? Is this still necessary if contributors are collaborating via Figma?\)
 
-
-
 ## **Upcoming Projects**
 
 Want to help out? Below is a list of upcoming projects we would love help on!
@@ -27,15 +25,11 @@ Project 2
 Project 3  
 Project 4
 
-
-
 ## Resources
 
-Take a look at these resources to familiarize yourslf 
+Take a look at these resources to familiarize yourslf
 
 Our platform
 
 Articles to read \( Grants Vitalik article\)
-
-
 

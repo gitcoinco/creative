@@ -6,20 +6,17 @@
 
 ## Brand Voice
 
----
-
-* [Voice and Tone](voice-and-tone.md)
+* [Voice and Tone](brand-voice/voice-and-tone.md)
 
 ## Brand Characteristics <a id="characteristics"></a>
 
----
-
-* [Logos](logos.md)
-* [Colors](colors.md)
-* [Fonts](fonts.md)
-* [Illustrations](illustrations-1.md)
-* [Icons](icons.md)
-* [Images](images.md)
+* [Logos](characteristics/logos.md)
+* [Colors](characteristics/colors.md)
+* [Typography](characteristics/fonts.md)
+* [Illustrations](characteristics/illustrations-1/README.md)
+  * [Kudos](characteristics/illustrations-1/kudos.md)
+* [Icons](characteristics/icons.md)
+* [Images](characteristics/images.md)
 
 ## Components
 
@@ -37,12 +34,9 @@
 * [Progress](components/progress.md)
 * [Tabs](components/tabs.md)
 * [Tooltips](components/tooltips.md)
-* [Typography](components/typography-1.md)
 * [Videos](components/videos.md)
 
 ## Resources
 
-* [Brand Guide](resources/brand-guide.md)
-* [Kudos](resources/kudos.md)
 * [Figma Library](resources/figma-library.md)
 

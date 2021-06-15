@@ -6,12 +6,12 @@ It's also a way to showcase special skills that a member might have, such as Pyt
 
 ## How do I create a new Kudos?
 
-#### Not an artist?
+### Not an artist?
 
 1. Open up a Github Issue [here](https://github.com/gitcoinco/kudosbadges/issues/new).
 2. Gitcoin will connect you with an artist who can work on your Kudos.
 
-#### Are you an artist?
+### Are you an artist?
 
 Here's how to work on Kudos:
 

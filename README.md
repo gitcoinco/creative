@@ -10,13 +10,3 @@ description: This is a blurb about the creative vision of Gitcoin
 
 We beliieve in designing together.
 
-
-
- 
-
-
-
-
-
-
-

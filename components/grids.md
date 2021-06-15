@@ -8,11 +8,11 @@ description: Grids and well-defined spacing ensures consistency between screens.
 
 We use twelve column grid system based on Bootstrap.
 
-#### Desktop
+### Desktop
 
 ![](../.gitbook/assets/grid_desktop.png)
 
-#### Mobile
+### Mobile
 
 ![](../.gitbook/assets/grid_mobile.png)
 
