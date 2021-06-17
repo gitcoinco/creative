@@ -3,7 +3,7 @@
 # Welcome to Gitcoin
 
 
-## Welcome to the community of designers here to help build and fund the open web. We're pushing open source to improve the user experience and interface design of web3.
+Welcome to the community of designers here to help build and fund the open web. We're pushing open source to improve the user experience and interface design of web3.
 
 
 ## Our Design Ethos
