@@ -10,21 +10,22 @@
 
 We beliieve in designing together.
 
-Unified
-Experiences should feel like a connected system with purpose. Every part of the design is included with intention to complete an ecosystem.
+Open
+We want to be shaped by the community and welcome all contributors to collaborate and participate in building Gitcoin. 
 
-Trusted
-We Design for data transparency, letting the user maintain control and understand what's happening at all times.
+Decentralized
+We welcome your ideas, we're open for your proposals to grow the project.
 
-Bold
-We are daring and allow the work to convey our intention.
+Forward
+We are daring, take risks and learn from our experiments.
 
-Clarity
-We prioritize clarity over trendy, hip or what is cool.
+Punk
+Because of the nature the community that influences our designs, there is edginess/rawness in our work.
 
 
 
 ## Ways to Participate
+
 Review the Brand Guide (coming soon)
 
 Review the Figma Design System
@@ -32,12 +33,14 @@ Review the Figma Design System
 Browse the Gitcoin.co site, see something that could be improved? Feel free to suggest ideas by sharing a Figma link in a PR
 
 ## Upcoming Projects
+
 Want to help out? Below is a list of upcoming projects we would love help on!
 Checkout the list of projects under the issues tab in this repo. 
 
-We are always looking for great UI/Ux help! Join our Discord to connect with us!
+We are always looking for great UI/Ux help! Join our Discord https://gitcoin.co/discord to connect with us!
 
 ## Resources
+
 Take a look at these resources to familiarize yourself with Gitcoin
 
 Gitcoin.co
