@@ -8,7 +8,7 @@ Welcome to the community of designers here to help build and fund the open web. 
 
 ## Our Design Ethos
 
-We beliieve in designing together.
+We believe in designing together.
 
 Open
 We want to be shaped by the community and welcome all contributors to collaborate and participate in building Gitcoin. 
@@ -32,12 +32,16 @@ Review the Figma Design System
 
 Browse the Gitcoin.co site, see something that could be improved? Feel free to suggest ideas by sharing a Figma link in a PR
 
+
+
 ## Upcoming Projects
 
 Want to help out? Below is a list of upcoming projects we would love help on!
 Checkout the list of projects under the issues tab in this repo. 
 
 We are always looking for great UI/Ux help! Join our Discord https://gitcoin.co/discord to connect with us!
+
+
 
 ## Resources
 
