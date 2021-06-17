@@ -43,6 +43,6 @@ We are always looking for great UI/Ux help! Join our Discord https://gitcoin.co/
 
 Take a look at these resources to familiarize yourself with Gitcoin
 
-Gitcoin.co
+https://gitcoin.co/
 
 Articles to read (Grants Vitalik article)
