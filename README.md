@@ -1,6 +1,4 @@
----
-description: This is a blurb about the creative vision of Gitcoin
----
+
 
 # Welcome to Gitcoin
 
