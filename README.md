@@ -47,4 +47,4 @@ We are always looking for great UI/Ux help! Join our [Discord](https://gitcoin.c
 
 Take a look at these resources to familiarize yourself with [Gitcoin](https://gitcoin.co/)
 
-Articles to read (Grants Vitalik article)
+Articles to read [this article](https://vitalik.ca/general/2021/03/23/legitimacy.html)
