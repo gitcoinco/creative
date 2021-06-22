@@ -10,16 +10,16 @@ Welcome to the community of designers here to help build and fund the open web. 
 
 We believe in designing together.
 
-Open
+**Open**
 We want to be shaped by the community and welcome all contributors to collaborate and participate in building Gitcoin. 
 
-Decentralized
+**Decentralized**
 We welcome your ideas, we're open for your proposals to grow the project.
 
-Forward
+**Forward**
 We are daring, take risks and learn from our experiments.
 
-Punk
+**Punk**
 Because of the nature the community that influences our designs, there is edginess/rawness in our work.
 
 
