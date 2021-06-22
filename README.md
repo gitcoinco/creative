@@ -39,7 +39,7 @@ Browse the Gitcoin.co site, see something that could be improved? Feel free to s
 Want to help out? Below is a list of upcoming projects we would love help on!
 Checkout the list of projects under the issues tab in this repo. 
 
-We are always looking for great UI/Ux help! Join our Discord https://gitcoin.co/discord to connect with us!
+We are always looking for great UI/Ux help! Join our [Discord] (https://gitcoin.co/discord) to connect with us!
 
 
 
