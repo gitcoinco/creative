@@ -28,7 +28,7 @@ Because of the nature the community that influences our designs, there is edgine
 
 Review the Brand Guide (coming soon)
 
-Review the Figma Design System
+Review the [Gitcoin Design System](https://www.figma.com/file/JTzaUKVxnGEmlaD3L8KsSm/Gitcoin-Design-System?node-id=0%3A1)
 
 Browse the Gitcoin.co site, see something that could be improved? Feel free to suggest ideas by sharing a Figma link in a PR
 
