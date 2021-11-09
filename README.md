@@ -33,11 +33,6 @@ Review the [Gitcoin Design System](https://www.figma.com/file/JTzaUKVxnGEmlaD3L8
 Browse the Gitcoin.co site, see something that could be improved? Feel free to suggest ideas by sharing a Figma link in a PR
 
 
-------
-
-### Want to mention Gitcoin on your open source project? [Read the Community marketing guidelines here!](https://github.com/gitcoinco/creative/commit/2e40e764ebca47237541ac22f30ba20de5009b1f) [Download the badges here!](https://github.com/gitcoinco/creative/tree/master/Brand)
-
-
 
 ## Upcoming Projects
 
@@ -53,3 +48,6 @@ We are always looking for great UI/Ux help! Join our [Discord](https://gitcoin.c
 Take a look at these resources to familiarize yourself with [Gitcoin](https://gitcoin.co/)
 
 Read [this article](https://vitalik.ca/general/2021/03/23/legitimacy.html)
+
+
+## Want to mention Gitcoin on your open source project? [Read the guidelines here!](https://github.com/gitcoinco/creative/commit/2e40e764ebca47237541ac22f30ba20de5009b1f) [Download the badges here!](https://github.com/gitcoinco/creative/tree/master/Brand)
