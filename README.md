@@ -34,7 +34,7 @@ Browse the Gitcoin.co site, see something that could be improved? Feel free to s
 
 ------
 
-Want to mention Gitcoin on your open source project? [Read the Community marketing guidelines here!](https://github.com/gitcoinco/creative/commit/2e40e764ebca47237541ac22f30ba20de5009b1f) [Download the badges here!](https://github.com/gitcoinco/creative/commit/2e40e764ebca47237541ac22f30ba20de5009b1f)
+Want to mention Gitcoin on your open source project? [Read the Community marketing guidelines here!](https://github.com/gitcoinco/creative/commit/2e40e764ebca47237541ac22f30ba20de5009b1f) [Download the badges here!](https://github.com/gitcoinco/creative/tree/master/Brand)
 
 
 
