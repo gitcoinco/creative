@@ -34,7 +34,7 @@ Browse the Gitcoin.co site, see something that could be improved? Feel free to s
 
 ------
 
-Want to mention Gitcoin on your open source project? [Get a badge here!](https://www.figma.com/file/JTzaUKVxnGEmlaD3L8KsSm/Gitcoin-Design-System?node-id=0%3A1)
+Want to mention Gitcoin on your open source project? [Get a badge here!](https://github.com/gitcoinco/creative/commit/2e40e764ebca47237541ac22f30ba20de5009b1f)
 
 
 
