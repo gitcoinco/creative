@@ -50,4 +50,4 @@ Take a look at these resources to familiarize yourself with [Gitcoin](https://gi
 Read [this article](https://vitalik.ca/general/2021/03/23/legitimacy.html)
 
 
-## Want to mention Gitcoin on your open source project? [Read the guidelines here!](https://github.com/gitcoinco/creative/commit/2e40e764ebca47237541ac22f30ba20de5009b1f) [Download the badges here!](https://github.com/gitcoinco/creative/tree/master/Brand)
+## Want to mention Gitcoin on your open source project? [Read the guidelines here!](https://github.com/gitcoinco/creative/blob/master/Brand/GitcoinDao_Community_Marketing_Guide.pdf) [Download the badges here!](https://github.com/gitcoinco/creative/tree/master/Brand)
