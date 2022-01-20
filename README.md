@@ -26,7 +26,7 @@ Because of the nature the community that influences our designs, there is edgine
 
 ## Ways to Participate
 
-Review the [Press Kit](https://gitcoin.co/press), Brand Guide (coming soon)
+Review the [Press Kit](https://gitcoin.co/press)
 
 Review the [Gitcoin Design System](https://www.figma.com/file/JTzaUKVxnGEmlaD3L8KsSm/Gitcoin-Design-System?node-id=0%3A1)
 
@@ -48,3 +48,6 @@ We are always looking for great UI/Ux help! Join our [Discord](https://gitcoin.c
 Take a look at these resources to familiarize yourself with [Gitcoin](https://gitcoin.co/)
 
 Read [this article](https://vitalik.ca/general/2021/03/23/legitimacy.html)
+
+
+## Want to mention Gitcoin on your open source project? [Read the guidelines here!](https://github.com/gitcoinco/creative/blob/master/Brand/GitcoinDao_Community_Marketing_Guide.pdf) [Download the badges here!](https://github.com/gitcoinco/creative/tree/master/Brand)
