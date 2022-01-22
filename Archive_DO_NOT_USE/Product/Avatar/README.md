@@ -1,0 +1,1 @@
+The "Avatar<category>" files in this directory are configured to export avatar assets in a format usable by the avatar builder. When making changes, make sure to apply those changes to all relevant color variations, then export to assets/v2/images/avatar.

@@ -1,37 +1,53 @@
-<table>
-<td width=100>
-<img src='https://github.com/gitcoinco/gitcoinco/blob/master/img/helmet.png'/>
-</td>
-<td width=800>
-Gitcoin is a constellation of Ethereum-based smart contracts designed to Push Open Source Forward. Learn more at https://gitcoin.co
-</td>
-</table>
-
-[Star](https://github.com/gitcoinco/creative/stargazers) and [watch](https://github.com/gitcoinco/creative/watchers) this github repository to stay up to date, we're pushing new assets several times per week!
 
 
-# Gitcoin Creative Assets
-
-This is a repository of creative assets for the gitcoin.co project
-
-# Where to Start
-
-* [Press Kit](https://gitcoin.co/presskit)
-* [Brand Guidelines](https://github.com/gitcoinco/creative/tree/master/Brand/Brand%20Guide)
-* .... or... just poke around the folders 
+# Welcome to Gitcoin
 
 
-# Contributing
+Welcome to the community of designers here to help build and fund the open web. We're pushing open source to improve the user experience and interface design of web3.
 
-Contributing Static Assets
 
-Please fork the repo, pull it down locally, add the assets to 00_Submissions, and push the changes to your fork.  Raise a pull request 
+## Our Design Ethos
 
-Notes:
-Please remember to upload the original source file (Sketch, .ai, etc) and optimized image assets.
+We believe in designing together.
 
-# License
-[Liscense](./liscense)
+**Open**
+We want to be shaped by the community and welcome all contributors to collaborate and participate in building Gitcoin. 
 
-<!-- Google Analytics -->
-<img src='https://ga-beacon.appspot.com/UA-102304388-1/gitcoinco/creative' style='width:1px; height:1px;' >
+**Decentralized**
+We welcome your ideas, we're open for your proposals to grow the project.
+
+**Forward**
+We are daring, take risks and learn from our experiments.
+
+**Punk**
+Because of the nature the community that influences our designs, there is edginess/rawness in our work.
+
+
+
+## Ways to Participate
+
+Review the [Press Kit](https://gitcoin.co/press)
+
+Review the [Gitcoin Design System](https://www.figma.com/file/JTzaUKVxnGEmlaD3L8KsSm/Gitcoin-Design-System?node-id=0%3A1)
+
+Browse the Gitcoin.co site, see something that could be improved? Feel free to suggest ideas by sharing a Figma link in a PR
+
+
+
+## Upcoming Projects
+
+Want to help out? Below is a list of upcoming projects we would love help on!
+Checkout the list of projects under the issues tab in this repo. 
+
+We are always looking for great UI/Ux help! Join our [Discord](https://gitcoin.co/discord) to connect with us!
+
+
+
+## Resources
+
+Take a look at these resources to familiarize yourself with [Gitcoin](https://gitcoin.co/)
+
+Read [this article](https://vitalik.ca/general/2021/03/23/legitimacy.html)
+
+
+## Want to mention Gitcoin on your open source project? [Read the guidelines here!](https://github.com/gitcoinco/creative/blob/master/Brand/GitcoinDao_Community_Marketing_Guide.pdf) [Download the badges here!](https://github.com/gitcoinco/creative/tree/master/Brand)
