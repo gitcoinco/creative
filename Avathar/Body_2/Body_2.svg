@@ -1,1 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 74.31 184.17"><defs><style>.cls-1{fill:none;}.cls-2,.cls-6{stroke:#c4d82e;}.cls-2,.cls-3,.cls-6,.cls-7,.cls-8{stroke-miterlimit:10;}.cls-2{fill:url(#linear-gradient);}.cls-3{fill:#64936c;}.cls-3,.cls-7{stroke:#91a53d;}.cls-3,.cls-7,.cls-8{stroke-width:2px;}.cls-4{clip-path:url(#clip-path);}.cls-5{opacity:0.43;}.cls-6,.cls-7{fill:#d1d3d4;}.cls-8{fill:#fff;stroke:#fff;}</style><linearGradient id="linear-gradient" x1="180.72" y1="288.71" x2="180.72" y2="105.54" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#5aba47"/><stop offset="0.13" stop-color="#5cb44a"/><stop offset="0.31" stop-color="#60a253"/><stop offset="0.53" stop-color="#678561"/><stop offset="0.76" stop-color="#715c75"/><stop offset="1" stop-color="#7d2a8e"/></linearGradient><clipPath id="clip-path" transform="translate(-143.57 -105.04)"><rect class="cls-1" x="128.69" y="106.42" width="104.06" height="77.35" transform="translate(35.63 325.82) rotate(-90)"/></clipPath></defs><g id="Layer_1" data-name="Layer 1"><path class="cls-2" d="M180.72,105.54h1.46c18,.34,33.3,12.18,35.2,27.57v128c-1.9,15.39-17.18,27.24-35.2,27.58h-2.92c-18-.34-33.29-12.19-35.19-27.58v-128c1.9-15.39,17.18-27.23,35.19-27.57Z" transform="translate(-143.57 -105.04)"/><line class="cls-3" x1="9.4" y1="95.25" x2="64.91" y2="95.25"/><g class="cls-4"><g class="cls-5"><path class="cls-6" d="M180.72,105.54h.86c18,.34,33.29,12.18,35.19,27.57v128c-1.9,15.39-17.18,27.24-35.19,27.58h-1.71c-18-.34-33.29-12.19-35.19-27.58v-128c1.9-15.39,17.18-27.23,35.19-27.57Z" transform="translate(-143.57 -105.04)"/><line class="cls-7" x1="10.01" y1="88.92" x2="64.3" y2="88.92"/><line class="cls-7" x1="10.01" y1="95.25" x2="64.3" y2="95.25"/></g></g><circle class="cls-8" cx="43.3" cy="71.94" r="0.88"/><circle class="cls-8" cx="31.01" cy="71.94" r="0.88"/><circle class="cls-8" cx="38.53" cy="77.93" r="0.4"/><circle class="cls-8" cx="35.78" cy="77.93" r="0.4"/><circle class="cls-8" cx="45.2" cy="83.41" r="1.05"/><circle class="cls-8" cx="29.11" cy="83.41" r="1.05"/><circle class="cls-8" cx="47.95" cy="106.44" r="1.05"/><circle class="cls-8" cx="26.36" cy="106.44" r="1.05"/><circle class="cls-8" cx="51.61" cy="83.9" r="1.05"/><circle class="cls-8" cx="22.7" cy="83.9" r="1.05"/><circle class="cls-8" cx="51.99" cy="98.43" r="1.05"/><circle class="cls-8" cx="22.32" cy="98.43" r="1.05"/><circle class="cls-8" cx="45.62" cy="97.78" r="0.48"/><circle class="cls-8" cx="28.69" cy="97.78" r="0.48"/><circle class="cls-8" cx="49.36" cy="90.42" r="0.48"/><circle class="cls-8" cx="24.95" cy="90.42" r="0.48"/><circle class="cls-8" cx="50.46" cy="73.23" r="0.48"/><circle class="cls-8" cx="23.85" cy="73.23" r="0.48"/><circle class="cls-8" cx="41.59" cy="78.3" r="0.48"/><circle class="cls-8" cx="32.71" cy="78.3" r="0.48"/></g></svg>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 350 350">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2, .cls-6 {
+        stroke: #c4d930;
+      }
+
+      .cls-2, .cls-3, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        stroke: #91a53d;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        opacity: 0.43;
+      }
+
+      .cls-6 {
+        fill: #d2d3d4;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="319.13" y1="-51.12" x2="319.13" y2="133.63" gradientTransform="matrix(1, 0, 0, -1, -143.25, 247.06)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75c044"/>
+      <stop offset="0" stop-color="#72bf44"/>
+      <stop offset="0.12" stop-color="#51a446"/>
+      <stop offset="0.24" stop-color="#369144"/>
+      <stop offset="0.37" stop-color="#25803f"/>
+      <stop offset="0.53" stop-color="#19753b"/>
+      <stop offset="0.71" stop-color="#0f6e38"/>
+      <stop offset="1" stop-color="#0c6c37"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="136.58" y="100.88" width="78.61" height="104.95"/>
+    </clipPath>
+  </defs>
+  <g id="Body_2">
+    <path class="cls-2" d="M175.88,113.47h1.77c18.15.34,33.58,12.29,35.5,27.81V270.36c-1.92,15.53-17.32,27.48-35.5,27.82h-3.54c-18.15-.34-33.58-12.29-35.49-27.82V141.24c1.91-15.52,17.32-27.47,35.49-27.81Z"/>
+    <line class="cls-3" x1="147.6" y1="202.63" x2="204.17" y2="202.63"/>
+    <line class="cls-3" x1="147.6" y1="209.02" x2="204.17" y2="209.02"/>
+    <g class="cls-4">
+      <g class="cls-5">
+        <path class="cls-6" d="M175.88,113.46H177c18.14.34,33.58,12.29,35.5,27.81v129.1c-1.92,15.52-17.33,27.47-35.5,27.81h-2.32c-18.14-.34-33.57-12.29-35.49-27.81V141.24c1.92-15.52,17.33-27.47,35.49-27.81Z"/>
+        <line class="cls-3" x1="148.2" y1="202.63" x2="203.56" y2="202.63"/>
+        <line class="cls-3" x1="148.2" y1="209.02" x2="203.56" y2="209.02"/>
+      </g>
+    </g>
+  </g>
+</svg>
