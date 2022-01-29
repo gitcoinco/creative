@@ -1,0 +1,36 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 350">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="Medicine_bubble_1">
+    <circle class="cls-1" cx="204.68" cy="210.56" r="1.91"/>
+    <circle class="cls-1" cx="149.55" cy="231.61" r="1.91"/>
+    <circle class="cls-1" cx="177.85" cy="232.49" r="1.91"/>
+    <circle class="cls-1" cx="179.74" cy="213.16" r="1.91"/>
+    <circle class="cls-1" cx="154.54" cy="273.33" r="1.91"/>
+    <circle class="cls-1" cx="202.77" cy="258.83" r="1.91"/>
+    <circle class="cls-1" cx="176.74" cy="255.39" r="1.91"/>
+    <circle class="cls-1" cx="161.17" cy="232.49" r="1.91"/>
+    <circle class="cls-1" cx="208.07" cy="234.4" r="1.91"/>
+    <circle class="cls-1" cx="194.08" cy="272.94" r="1.91"/>
+    <circle class="cls-1" cx="161.85" cy="258.83" r="1.91"/>
+    <circle class="cls-1" cx="181.02" cy="244.82" r="0.86"/>
+    <circle class="cls-1" cx="195.26" cy="250.27" r="0.86"/>
+    <circle class="cls-1" cx="150.32" cy="257.65" r="0.86"/>
+    <circle class="cls-1" cx="171.03" cy="272.26" r="0.86"/>
+    <circle class="cls-1" cx="169.88" cy="251.14" r="0.86"/>
+    <circle class="cls-1" cx="194.36" cy="223.5" r="0.86"/>
+    <circle class="cls-1" cx="157.09" cy="244.31" r="0.86"/>
+    <circle class="cls-1" cx="170.75" cy="225.22" r="0.86"/>
+    <circle class="cls-1" cx="159.09" cy="213.16" r="0.86"/>
+    <circle class="cls-1" cx="143.02" cy="222.35" r="0.86"/>
+    <circle class="cls-1" cx="197.82" cy="237.43" r="0.86"/>
+  </g>
+</svg>

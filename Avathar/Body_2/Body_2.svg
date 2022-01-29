@@ -1,0 +1,63 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 350 350">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2, .cls-6 {
+        stroke: #c4d930;
+      }
+
+      .cls-2, .cls-3, .cls-6 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        stroke: #91a53d;
+        stroke-width: 2px;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        opacity: 0.43;
+      }
+
+      .cls-6 {
+        fill: #d2d3d4;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="319.13" y1="-51.12" x2="319.13" y2="133.63" gradientTransform="matrix(1, 0, 0, -1, -143.25, 247.06)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#75c044"/>
+      <stop offset="0" stop-color="#72bf44"/>
+      <stop offset="0.12" stop-color="#51a446"/>
+      <stop offset="0.24" stop-color="#369144"/>
+      <stop offset="0.37" stop-color="#25803f"/>
+      <stop offset="0.53" stop-color="#19753b"/>
+      <stop offset="0.71" stop-color="#0f6e38"/>
+      <stop offset="1" stop-color="#0c6c37"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="136.58" y="100.88" width="78.61" height="104.95"/>
+    </clipPath>
+  </defs>
+  <g id="Body_2">
+    <path class="cls-2" d="M175.88,113.47h1.77c18.15.34,33.58,12.29,35.5,27.81V270.36c-1.92,15.53-17.32,27.48-35.5,27.82h-3.54c-18.15-.34-33.58-12.29-35.49-27.82V141.24c1.91-15.52,17.32-27.47,35.49-27.81Z"/>
+    <line class="cls-3" x1="147.6" y1="202.63" x2="204.17" y2="202.63"/>
+    <line class="cls-3" x1="147.6" y1="209.02" x2="204.17" y2="209.02"/>
+    <g class="cls-4">
+      <g class="cls-5">
+        <path class="cls-6" d="M175.88,113.46H177c18.14.34,33.58,12.29,35.5,27.81v129.1c-1.92,15.52-17.33,27.47-35.5,27.81h-2.32c-18.14-.34-33.57-12.29-35.49-27.81V141.24c1.92-15.52,17.33-27.47,35.49-27.81Z"/>
+        <line class="cls-3" x1="148.2" y1="202.63" x2="203.56" y2="202.63"/>
+        <line class="cls-3" x1="148.2" y1="209.02" x2="203.56" y2="209.02"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,56 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 350 350">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-1 {
+        fill: url(#linear-gradient);
+        stroke: url(#linear-gradient-2);
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #d7df28;
+      }
+
+      .cls-3 {
+        stroke: #f2f2f2;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+        stroke: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="198.04" y1="227.61" x2="326.91" y2="227.61" gradientTransform="matrix(1, 0, 0, -1, 0, 352)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#34c3e1"/>
+      <stop offset="0.34" stop-color="#22b3ab"/>
+      <stop offset="1" stop-color="#0e9547"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="196.25" y1="227.44" x2="329" y2="227.44" gradientTransform="matrix(1, 0, 0, -1, 0, 352)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3471b8"/>
+      <stop offset="0.13" stop-color="#3273ba" stop-opacity="0.91"/>
+      <stop offset="0.39" stop-color="#2f78bd" stop-opacity="0.67"/>
+      <stop offset="0.75" stop-color="#2a7fc2" stop-opacity="0.29"/>
+      <stop offset="1" stop-color="#2484c7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="176.48" y1="145.05" x2="305.34" y2="145.05" gradientTransform="translate(325.51 269.44) rotate(180)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="174.69" y1="144.88" x2="307.43" y2="144.88" gradientTransform="translate(325.51 269.44) rotate(180)" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="Wings_3">
+    <polygon class="cls-1" points="198.04 178.67 246.59 169.85 326.91 70.11 306.17 70.11 217.9 138.96 198.04 178.67"/>
+    <line class="cls-2" x1="221.44" y1="142.05" x2="308.81" y2="73.2"/>
+    <polyline class="cls-2" points="210.84 161.47 247.91 142.05 247.91 161.47"/>
+    <path class="cls-3" d="M215.27,151.76l37.06-20.3,2.18,20.3,10.58-39.24,29.57-12.8c.39-3.08,2.18-14.27,11.48-20.71a49.42,49.42,0,0,1,6.17-3.1,64.56,64.56,0,0,1,8.83-3.08"/>
+    <polygon class="cls-4" points="149.03 178.67 100.48 169.85 20.17 70.11 40.91 70.11 129.17 138.96 149.03 178.67"/>
+    <line class="cls-2" x1="125.64" y1="142.05" x2="38.26" y2="73.2"/>
+    <polyline class="cls-2" points="136.24 161.47 99.16 142.05 99.16 161.47"/>
+    <path class="cls-3" d="M131.82,151.76l-37.06-20.3-2.18,20.3L82,112.52,52.39,99.69C52,96.6,50.21,85.42,40.91,79a47.57,47.57,0,0,0-6.18-3.1,65.46,65.46,0,0,0-8.82-3.11"/>
+  </g>
+</svg>
