@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="health.svg"
+   id="svg103"
+   version="1.1"
+   viewBox="0 0 1200 1200">
+  <metadata
+     id="metadata107">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Halo_inspired</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg103"
+     inkscape:window-maximized="1"
+     inkscape:window-y="42"
+     inkscape:window-x="0"
+     inkscape:cy="693.09173"
+     inkscape:cx="27.970456"
+     inkscape:zoom="0.28107495"
+     showgrid="false"
+     id="namedview105"
+     inkscape:window-height="726"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1,.cls-10{fill:#fbc115;}.cls-1{opacity:0.21;}.cls-1,.cls-11{isolation:isolate;}.cls-2{fill:#ffce08;}.cls-3{fill:#fff;}.cls-4{fill:#00fce7;}.cls-5{fill:#25e899;}.cls-6{fill:#0fce7c;}.cls-7{fill:#15003e;}.cls-8{fill:#1a0c3d;stroke-linecap:round;}.cls-8,.cls-9{stroke:#15003e;stroke-miterlimit:10;stroke-width:12px;}.cls-9{fill:none;}.cls-11{opacity:0.13;}</style>
+    <meshgradient
+       y="0"
+       x="0"
+       gradientUnits="userSpaceOnUse"
+       id="meshgradient1012"
+       inkscape:collect="always">
+      <meshrow
+         id="meshrow1014">
+        <meshpatch
+           id="meshpatch1016">
+          <stop
+             id="stop1018"
+             style="stop-color:#15003e;stop-opacity:1"
+             path="c 36.9333,0  73.8667,0  110.8,0" />
+          <stop
+             id="stop1020"
+             style="stop-color:#25e899;stop-opacity:1"
+             path="c 0,42.6667  0,85.3333  0,128" />
+          <stop
+             id="stop1022"
+             style="stop-color:#f8036d;stop-opacity:1"
+             path="c -36.9333,0  -73.8667,0  -110.8,0" />
+          <stop
+             id="stop1024"
+             style="stop-color:#ffffff;stop-opacity:1"
+             path="c 0,-42.6667  0,-85.3333  0,-128" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <title
+     id="title6">Halo_inspired</title>
+  <script
+     type="text/javascript"
+     id="mesh_polyfill">
+!function(){const t=&quot;http://www.w3.org/2000/svg&quot;,e=&quot;http://www.w3.org/1999/xlink&quot;,s=&quot;http://www.w3.org/1999/xhtml&quot;,r=2;if(document.createElementNS(t,&quot;meshgradient&quot;).x)return;const n=(t,e,s,r)=&gt;{let n=new x(.5*(e.x+s.x),.5*(e.y+s.y)),o=new x(.5*(t.x+e.x),.5*(t.y+e.y)),i=new x(.5*(s.x+r.x),.5*(s.y+r.y)),a=new x(.5*(n.x+o.x),.5*(n.y+o.y)),h=new x(.5*(n.x+i.x),.5*(n.y+i.y)),l=new x(.5*(a.x+h.x),.5*(a.y+h.y));return[[t,o,a,l],[l,h,i,r]]},o=t=&gt;{let e=t[0].distSquared(t[1]),s=t[2].distSquared(t[3]),r=.25*t[0].distSquared(t[2]),n=.25*t[1].distSquared(t[3]),o=e&gt;s?e:s,i=r&gt;n?r:n;return 18*(o&gt;i?o:i)},i=(t,e)=&gt;Math.sqrt(t.distSquared(e)),a=(t,e)=&gt;t.scale(2/3).add(e.scale(1/3)),h=t=&gt;{let e,s,r,n,o,i,a,h=new g;return t.match(/(\w+\(\s*[^)]+\))+/g).forEach(t=&gt;{let l=t.match(/[\w.-]+/g),d=l.shift();switch(d){case&quot;translate&quot;:2===l.length?e=new g(1,0,0,1,l[0],l[1]):(console.error(&quot;mesh.js: translate does not have 2 arguments!&quot;),e=new g(1,0,0,1,0,0)),h=h.append(e);break;case&quot;scale&quot;:1===l.length?s=new g(l[0],0,0,l[0],0,0):2===l.length?s=new g(l[0],0,0,l[1],0,0):(console.error(&quot;mesh.js: scale does not have 1 or 2 arguments!&quot;),s=new g(1,0,0,1,0,0)),h=h.append(s);break;case&quot;rotate&quot;:if(3===l.length&amp;&amp;(e=new g(1,0,0,1,l[1],l[2]),h=h.append(e)),l[0]){r=l[0]*Math.PI/180;let t=Math.cos(r),e=Math.sin(r);Math.abs(t)&lt;1e-16&amp;&amp;(t=0),Math.abs(e)&lt;1e-16&amp;&amp;(e=0),a=new g(t,e,-e,t,0,0),h=h.append(a)}else console.error(&quot;math.js: No argument to rotate transform!&quot;);3===l.length&amp;&amp;(e=new g(1,0,0,1,-l[1],-l[2]),h=h.append(e));break;case&quot;skewX&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),o=new g(1,0,n,1,0,0),h=h.append(o)):console.error(&quot;math.js: No argument to skewX transform!&quot;);break;case&quot;skewY&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),i=new g(1,n,0,1,0,0),h=h.append(i)):console.error(&quot;math.js: No argument to skewY transform!&quot;);break;case&quot;matrix&quot;:6===l.length?h=h.append(new g(...l)):console.error(&quot;math.js: Incorrect number of arguments for matrix!&quot;);break;default:console.error(&quot;mesh.js: Unhandled transform type: &quot;+d)}}),h},l=t=&gt;{let e=[],s=t.split(/[ ,]+/);for(let t=0,r=s.length-1;t&lt;r;t+=2)e.push(new x(parseFloat(s[t]),parseFloat(s[t+1])));return e},d=(t,e)=&gt;{for(let s in e)t.setAttribute(s,e[s])},c=(t,e,s,r,n)=&gt;{let o,i,a=[0,0,0,0];for(let h=0;h&lt;3;++h)e[h]&lt;t[h]&amp;&amp;e[h]&lt;s[h]||t[h]&lt;e[h]&amp;&amp;s[h]&lt;e[h]?a[h]=0:(a[h]=.5*((e[h]-t[h])/r+(s[h]-e[h])/n),o=Math.abs(3*(e[h]-t[h])/r),i=Math.abs(3*(s[h]-e[h])/n),a[h]&gt;o?a[h]=o:a[h]&gt;i&amp;&amp;(a[h]=i));return a},u=[[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0],[-3,3,0,0,-2,-1,0,0,0,0,0,0,0,0,0,0],[2,-2,0,0,1,1,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0],[0,0,0,0,0,0,0,0,-3,3,0,0,-2,-1,0,0],[0,0,0,0,0,0,0,0,2,-2,0,0,1,1,0,0],[-3,0,3,0,0,0,0,0,-2,0,-1,0,0,0,0,0],[0,0,0,0,-3,0,3,0,0,0,0,0,-2,0,-1,0],[9,-9,-9,9,6,3,-6,-3,6,-6,3,-3,4,2,2,1],[-6,6,6,-6,-3,-3,3,3,-4,4,-2,2,-2,-2,-1,-1],[2,0,-2,0,0,0,0,0,1,0,1,0,0,0,0,0],[0,0,0,0,2,0,-2,0,0,0,0,0,1,0,1,0],[-6,6,6,-6,-4,-2,4,2,-3,3,-3,3,-2,-1,-2,-1],[4,-4,-4,4,2,2,-2,-2,2,-2,2,-2,1,1,1,1]],f=t=&gt;{let e=[];for(let s=0;s&lt;16;++s){e[s]=0;for(let r=0;r&lt;16;++r)e[s]+=u[s][r]*t[r]}return e},p=(t,e,s)=&gt;{const r=e*e,n=s*s,o=e*e*e,i=s*s*s;return t[0]+t[1]*e+t[2]*r+t[3]*o+t[4]*s+t[5]*s*e+t[6]*s*r+t[7]*s*o+t[8]*n+t[9]*n*e+t[10]*n*r+t[11]*n*o+t[12]*i+t[13]*i*e+t[14]*i*r+t[15]*i*o},y=t=&gt;{let e=[],s=[],r=[];for(let s=0;s&lt;4;++s)e[s]=[],e[s][0]=n(t[0][s],t[1][s],t[2][s],t[3][s]),e[s][1]=[],e[s][1].push(...n(...e[s][0][0])),e[s][1].push(...n(...e[s][0][1])),e[s][2]=[],e[s][2].push(...n(...e[s][1][0])),e[s][2].push(...n(...e[s][1][1])),e[s][2].push(...n(...e[s][1][2])),e[s][2].push(...n(...e[s][1][3]));for(let t=0;t&lt;8;++t){s[t]=[];for(let r=0;r&lt;4;++r)s[t][r]=[],s[t][r][0]=n(e[0][2][t][r],e[1][2][t][r],e[2][2][t][r],e[3][2][t][r]),s[t][r][1]=[],s[t][r][1].push(...n(...s[t][r][0][0])),s[t][r][1].push(...n(...s[t][r][0][1])),s[t][r][2]=[],s[t][r][2].push(...n(...s[t][r][1][0])),s[t][r][2].push(...n(...s[t][r][1][1])),s[t][r][2].push(...n(...s[t][r][1][2])),s[t][r][2].push(...n(...s[t][r][1][3]))}for(let t=0;t&lt;8;++t){r[t]=[];for(let e=0;e&lt;8;++e)r[t][e]=[],r[t][e][0]=s[t][0][2][e],r[t][e][1]=s[t][1][2][e],r[t][e][2]=s[t][2][2][e],r[t][e][3]=s[t][3][2][e]}return r};class x{constructor(t,e){this.x=t||0,this.y=e||0}toString(){return`(x=${this.x}, y=${this.y})`}clone(){return new x(this.x,this.y)}add(t){return new x(this.x+t.x,this.y+t.y)}scale(t){return void 0===t.x?new x(this.x*t,this.y*t):new x(this.x*t.x,this.y*t.y)}distSquared(t){let e=this.x-t.x,s=this.y-t.y;return e*e+s*s}transform(t){let e=this.x*t.a+this.y*t.c+t.e,s=this.x*t.b+this.y*t.d+t.f;return new x(e,s)}}class g{constructor(t,e,s,r,n,o){void 0===t?(this.a=1,this.b=0,this.c=0,this.d=1,this.e=0,this.f=0):(this.a=t,this.b=e,this.c=s,this.d=r,this.e=n,this.f=o)}toString(){return`affine: ${this.a} ${this.c} ${this.e} \n       ${this.b} ${this.d} ${this.f}`}append(t){t instanceof g||console.error(&quot;mesh.js: argument to Affine.append is not affine!&quot;);let e=this.a*t.a+this.c*t.b,s=this.b*t.a+this.d*t.b,r=this.a*t.c+this.c*t.d,n=this.b*t.c+this.d*t.d,o=this.a*t.e+this.c*t.f+this.e,i=this.b*t.e+this.d*t.f+this.f;return new g(e,s,r,n,o,i)}}class w{constructor(t,e){this.nodes=t,this.colors=e}paintCurve(t,e){if(o(this.nodes)&gt;r){const s=n(...this.nodes);let r=[[],[]],o=[[],[]];for(let t=0;t&lt;4;++t)r[0][t]=this.colors[0][t],r[1][t]=(this.colors[0][t]+this.colors[1][t])/2,o[0][t]=r[1][t],o[1][t]=this.colors[1][t];let i=new w(s[0],r),a=new w(s[1],o);i.paintCurve(t,e),a.paintCurve(t,e)}else{let s=Math.round(this.nodes[0].x);if(s&gt;=0&amp;&amp;s&lt;e){let r=4*(~~this.nodes[0].y*e+s);t[r]=Math.round(this.colors[0][0]),t[r+1]=Math.round(this.colors[0][1]),t[r+2]=Math.round(this.colors[0][2]),t[r+3]=Math.round(this.colors[0][3])}}}}class m{constructor(t,e){this.nodes=t,this.colors=e}split(){let t=[[],[],[],[]],e=[[],[],[],[]],s=[[[],[]],[[],[]]],r=[[[],[]],[[],[]]];for(let s=0;s&lt;4;++s){const r=n(this.nodes[0][s],this.nodes[1][s],this.nodes[2][s],this.nodes[3][s]);t[0][s]=r[0][0],t[1][s]=r[0][1],t[2][s]=r[0][2],t[3][s]=r[0][3],e[0][s]=r[1][0],e[1][s]=r[1][1],e[2][s]=r[1][2],e[3][s]=r[1][3]}for(let t=0;t&lt;4;++t)s[0][0][t]=this.colors[0][0][t],s[0][1][t]=this.colors[0][1][t],s[1][0][t]=(this.colors[0][0][t]+this.colors[1][0][t])/2,s[1][1][t]=(this.colors[0][1][t]+this.colors[1][1][t])/2,r[0][0][t]=s[1][0][t],r[0][1][t]=s[1][1][t],r[1][0][t]=this.colors[1][0][t],r[1][1][t]=this.colors[1][1][t];return[new m(t,s),new m(e,r)]}paint(t,e){let s,n=!1;for(let t=0;t&lt;4;++t)if((s=o([this.nodes[0][t],this.nodes[1][t],this.nodes[2][t],this.nodes[3][t]]))&gt;r){n=!0;break}if(n){let s=this.split();s[0].paint(t,e),s[1].paint(t,e)}else{new w([...this.nodes[0]],[...this.colors[0]]).paintCurve(t,e)}}}class b{constructor(t){this.readMesh(t),this.type=t.getAttribute(&quot;type&quot;)||&quot;bilinear&quot;}readMesh(t){let e=[[]],s=[[]],r=Number(t.getAttribute(&quot;x&quot;)),n=Number(t.getAttribute(&quot;y&quot;));e[0][0]=new x(r,n);let o=t.children;for(let t=0,r=o.length;t&lt;r;++t){e[3*t+1]=[],e[3*t+2]=[],e[3*t+3]=[],s[t+1]=[];let r=o[t].children;for(let n=0,o=r.length;n&lt;o;++n){let o=r[n].children;for(let r=0,i=o.length;r&lt;i;++r){let i=r;0!==t&amp;&amp;++i;let h,d=o[r].getAttribute(&quot;path&quot;),c=&quot;l&quot;;null!=d&amp;&amp;(c=(h=d.match(/\s*([lLcC])\s*(.*)/))[1]);let u=l(h[2]);switch(c){case&quot;l&quot;:0===i?(e[3*t][3*n+3]=u[0].add(e[3*t][3*n]),e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0].add(e[3*t+3][3*n+3])),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;L&quot;:0===i?(e[3*t][3*n+3]=u[0],e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0],e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0]),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;c&quot;:0===i?(e[3*t][3*n+1]=u[0].add(e[3*t][3*n]),e[3*t][3*n+2]=u[1].add(e[3*t][3*n]),e[3*t][3*n+3]=u[2].add(e[3*t][3*n])):1===i?(e[3*t+1][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+2][3*n+3]=u[1].add(e[3*t][3*n+3]),e[3*t+3][3*n+3]=u[2].add(e[3*t][3*n+3])):2===i?(e[3*t+3][3*n+2]=u[0].add(e[3*t+3][3*n+3]),e[3*t+3][3*n+1]=u[1].add(e[3*t+3][3*n+3]),0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2].add(e[3*t+3][3*n+3]))):(e[3*t+2][3*n]=u[0].add(e[3*t+3][3*n]),e[3*t+1][3*n]=u[1].add(e[3*t+3][3*n]));break;case&quot;C&quot;:0===i?(e[3*t][3*n+1]=u[0],e[3*t][3*n+2]=u[1],e[3*t][3*n+3]=u[2]):1===i?(e[3*t+1][3*n+3]=u[0],e[3*t+2][3*n+3]=u[1],e[3*t+3][3*n+3]=u[2]):2===i?(e[3*t+3][3*n+2]=u[0],e[3*t+3][3*n+1]=u[1],0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2])):(e[3*t+2][3*n]=u[0],e[3*t+1][3*n]=u[1]);break;default:console.error(&quot;mesh.js: &quot;+c+&quot; invalid path type.&quot;)}if(0===t&amp;&amp;0===n||r&gt;0){let e=window.getComputedStyle(o[r]).stopColor.match(/^rgb\s*\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$/i),a=window.getComputedStyle(o[r]).stopOpacity,h=255;a&amp;&amp;(h=Math.floor(255*a)),e&amp;&amp;(0===i?(s[t][n]=[],s[t][n][0]=Math.floor(e[1]),s[t][n][1]=Math.floor(e[2]),s[t][n][2]=Math.floor(e[3]),s[t][n][3]=h):1===i?(s[t][n+1]=[],s[t][n+1][0]=Math.floor(e[1]),s[t][n+1][1]=Math.floor(e[2]),s[t][n+1][2]=Math.floor(e[3]),s[t][n+1][3]=h):2===i?(s[t+1][n+1]=[],s[t+1][n+1][0]=Math.floor(e[1]),s[t+1][n+1][1]=Math.floor(e[2]),s[t+1][n+1][2]=Math.floor(e[3]),s[t+1][n+1][3]=h):3===i&amp;&amp;(s[t+1][n]=[],s[t+1][n][0]=Math.floor(e[1]),s[t+1][n][1]=Math.floor(e[2]),s[t+1][n][2]=Math.floor(e[3]),s[t+1][n][3]=h))}}e[3*t+1][3*n+1]=new x,e[3*t+1][3*n+2]=new x,e[3*t+2][3*n+1]=new x,e[3*t+2][3*n+2]=new x,e[3*t+1][3*n+1].x=(-4*e[3*t][3*n].x+6*(e[3*t][3*n+1].x+e[3*t+1][3*n].x)+-2*(e[3*t][3*n+3].x+e[3*t+3][3*n].x)+3*(e[3*t+3][3*n+1].x+e[3*t+1][3*n+3].x)+-1*e[3*t+3][3*n+3].x)/9,e[3*t+1][3*n+2].x=(-4*e[3*t][3*n+3].x+6*(e[3*t][3*n+2].x+e[3*t+1][3*n+3].x)+-2*(e[3*t][3*n].x+e[3*t+3][3*n+3].x)+3*(e[3*t+3][3*n+2].x+e[3*t+1][3*n].x)+-1*e[3*t+3][3*n].x)/9,e[3*t+2][3*n+1].x=(-4*e[3*t+3][3*n].x+6*(e[3*t+3][3*n+1].x+e[3*t+2][3*n].x)+-2*(e[3*t+3][3*n+3].x+e[3*t][3*n].x)+3*(e[3*t][3*n+1].x+e[3*t+2][3*n+3].x)+-1*e[3*t][3*n+3].x)/9,e[3*t+2][3*n+2].x=(-4*e[3*t+3][3*n+3].x+6*(e[3*t+3][3*n+2].x+e[3*t+2][3*n+3].x)+-2*(e[3*t+3][3*n].x+e[3*t][3*n+3].x)+3*(e[3*t][3*n+2].x+e[3*t+2][3*n].x)+-1*e[3*t][3*n].x)/9,e[3*t+1][3*n+1].y=(-4*e[3*t][3*n].y+6*(e[3*t][3*n+1].y+e[3*t+1][3*n].y)+-2*(e[3*t][3*n+3].y+e[3*t+3][3*n].y)+3*(e[3*t+3][3*n+1].y+e[3*t+1][3*n+3].y)+-1*e[3*t+3][3*n+3].y)/9,e[3*t+1][3*n+2].y=(-4*e[3*t][3*n+3].y+6*(e[3*t][3*n+2].y+e[3*t+1][3*n+3].y)+-2*(e[3*t][3*n].y+e[3*t+3][3*n+3].y)+3*(e[3*t+3][3*n+2].y+e[3*t+1][3*n].y)+-1*e[3*t+3][3*n].y)/9,e[3*t+2][3*n+1].y=(-4*e[3*t+3][3*n].y+6*(e[3*t+3][3*n+1].y+e[3*t+2][3*n].y)+-2*(e[3*t+3][3*n+3].y+e[3*t][3*n].y)+3*(e[3*t][3*n+1].y+e[3*t+2][3*n+3].y)+-1*e[3*t][3*n+3].y)/9,e[3*t+2][3*n+2].y=(-4*e[3*t+3][3*n+3].y+6*(e[3*t+3][3*n+2].y+e[3*t+2][3*n+3].y)+-2*(e[3*t+3][3*n].y+e[3*t][3*n+3].y)+3*(e[3*t][3*n+2].y+e[3*t+2][3*n].y)+-1*e[3*t][3*n].y)/9}}this.nodes=e,this.colors=s}paintMesh(t,e){let s=(this.nodes.length-1)/3,r=(this.nodes[0].length-1)/3;if(&quot;bilinear&quot;===this.type||s&lt;2||r&lt;2){let n;for(let o=0;o&lt;s;++o)for(let s=0;s&lt;r;++s){let r=[];for(let t=3*o,e=3*o+4;t&lt;e;++t)r.push(this.nodes[t].slice(3*s,3*s+4));let i=[];i.push(this.colors[o].slice(s,s+2)),i.push(this.colors[o+1].slice(s,s+2)),(n=new m(r,i)).paint(t,e)}}else{let n,o,a,h,l,d,u;const x=s,g=r;s++,r++;let w=new Array(s);for(let t=0;t&lt;s;++t){w[t]=new Array(r);for(let e=0;e&lt;r;++e)w[t][e]=[],w[t][e][0]=this.nodes[3*t][3*e],w[t][e][1]=this.colors[t][e]}for(let t=0;t&lt;s;++t)for(let e=0;e&lt;r;++e)0!==t&amp;&amp;t!==x&amp;&amp;(n=i(w[t-1][e][0],w[t][e][0]),o=i(w[t+1][e][0],w[t][e][0]),w[t][e][2]=c(w[t-1][e][1],w[t][e][1],w[t+1][e][1],n,o)),0!==e&amp;&amp;e!==g&amp;&amp;(n=i(w[t][e-1][0],w[t][e][0]),o=i(w[t][e+1][0],w[t][e][0]),w[t][e][3]=c(w[t][e-1][1],w[t][e][1],w[t][e+1][1],n,o));for(let t=0;t&lt;r;++t){w[0][t][2]=[],w[x][t][2]=[];for(let e=0;e&lt;4;++e)n=i(w[1][t][0],w[0][t][0]),o=i(w[x][t][0],w[x-1][t][0]),w[0][t][2][e]=n&gt;0?2*(w[1][t][1][e]-w[0][t][1][e])/n-w[1][t][2][e]:0,w[x][t][2][e]=o&gt;0?2*(w[x][t][1][e]-w[x-1][t][1][e])/o-w[x-1][t][2][e]:0}for(let t=0;t&lt;s;++t){w[t][0][3]=[],w[t][g][3]=[];for(let e=0;e&lt;4;++e)n=i(w[t][1][0],w[t][0][0]),o=i(w[t][g][0],w[t][g-1][0]),w[t][0][3][e]=n&gt;0?2*(w[t][1][1][e]-w[t][0][1][e])/n-w[t][1][3][e]:0,w[t][g][3][e]=o&gt;0?2*(w[t][g][1][e]-w[t][g-1][1][e])/o-w[t][g-1][3][e]:0}for(let s=0;s&lt;x;++s)for(let r=0;r&lt;g;++r){let n=i(w[s][r][0],w[s+1][r][0]),o=i(w[s][r+1][0],w[s+1][r+1][0]),c=i(w[s][r][0],w[s][r+1][0]),x=i(w[s+1][r][0],w[s+1][r+1][0]),g=[[],[],[],[]];for(let t=0;t&lt;4;++t){(d=[])[0]=w[s][r][1][t],d[1]=w[s+1][r][1][t],d[2]=w[s][r+1][1][t],d[3]=w[s+1][r+1][1][t],d[4]=w[s][r][2][t]*n,d[5]=w[s+1][r][2][t]*n,d[6]=w[s][r+1][2][t]*o,d[7]=w[s+1][r+1][2][t]*o,d[8]=w[s][r][3][t]*c,d[9]=w[s+1][r][3][t]*x,d[10]=w[s][r+1][3][t]*c,d[11]=w[s+1][r+1][3][t]*x,d[12]=0,d[13]=0,d[14]=0,d[15]=0,u=f(d);for(let e=0;e&lt;9;++e){g[t][e]=[];for(let s=0;s&lt;9;++s)g[t][e][s]=p(u,e/8,s/8),g[t][e][s]&gt;255?g[t][e][s]=255:g[t][e][s]&lt;0&amp;&amp;(g[t][e][s]=0)}}h=[];for(let t=3*s,e=3*s+4;t&lt;e;++t)h.push(this.nodes[t].slice(3*r,3*r+4));l=y(h);for(let s=0;s&lt;8;++s)for(let r=0;r&lt;8;++r)(a=new m(l[s][r],[[[g[0][s][r],g[1][s][r],g[2][s][r],g[3][s][r]],[g[0][s][r+1],g[1][s][r+1],g[2][s][r+1],g[3][s][r+1]]],[[g[0][s+1][r],g[1][s+1][r],g[2][s+1][r],g[3][s+1][r]],[g[0][s+1][r+1],g[1][s+1][r+1],g[2][s+1][r+1],g[3][s+1][r+1]]]])).paint(t,e)}}}transform(t){if(t instanceof x)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].add(t);else if(t instanceof g)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].transform(t)}scale(t){for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].scale(t)}}document.querySelectorAll(&quot;rect,circle,ellipse,path,text&quot;).forEach((r,n)=&gt;{let o=r.getAttribute(&quot;id&quot;);o||(o=&quot;patchjs_shape&quot;+n,r.setAttribute(&quot;id&quot;,o));const i=r.style.fill.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/),a=r.style.stroke.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/);if(i&amp;&amp;i[1]){const a=document.getElementById(i[1]);if(a&amp;&amp;&quot;meshgradient&quot;===a.nodeName){const i=r.getBBox();let l=document.createElementNS(s,&quot;canvas&quot;);d(l,{width:i.width,height:i.height});const c=l.getContext(&quot;2d&quot;);let u=c.createImageData(i.width,i.height);const f=new b(a);&quot;objectBoundingBox&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.scale(new x(i.width,i.height));const p=a.getAttribute(&quot;gradientTransform&quot;);null!=p&amp;&amp;f.transform(h(p)),&quot;userSpaceOnUse&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.transform(new x(-i.x,-i.y)),f.paintMesh(u.data,l.width),c.putImageData(u,0,0);const y=document.createElementNS(t,&quot;image&quot;);d(y,{width:i.width,height:i.height,x:i.x,y:i.y});let g=l.toDataURL();y.setAttributeNS(e,&quot;xlink:href&quot;,g),r.parentNode.insertBefore(y,r),r.style.fill=&quot;none&quot;;const w=document.createElementNS(t,&quot;use&quot;);w.setAttributeNS(e,&quot;xlink:href&quot;,&quot;#&quot;+o);const m=&quot;patchjs_clip&quot;+n,M=document.createElementNS(t,&quot;clipPath&quot;);M.setAttribute(&quot;id&quot;,m),M.appendChild(w),r.parentElement.insertBefore(M,r),y.setAttribute(&quot;clip-path&quot;,&quot;url(#&quot;+m+&quot;)&quot;),u=null,l=null,g=null}}if(a&amp;&amp;a[1]){const o=document.getElementById(a[1]);if(o&amp;&amp;&quot;meshgradient&quot;===o.nodeName){const i=parseFloat(r.style.strokeWidth.slice(0,-2))*(parseFloat(r.style.strokeMiterlimit)||parseFloat(r.getAttribute(&quot;stroke-miterlimit&quot;))||1),a=r.getBBox(),l=Math.trunc(a.width+i),c=Math.trunc(a.height+i),u=Math.trunc(a.x-i/2),f=Math.trunc(a.y-i/2);let p=document.createElementNS(s,&quot;canvas&quot;);d(p,{width:l,height:c});const y=p.getContext(&quot;2d&quot;);let g=y.createImageData(l,c);const w=new b(o);&quot;objectBoundingBox&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.scale(new x(l,c));const m=o.getAttribute(&quot;gradientTransform&quot;);null!=m&amp;&amp;w.transform(h(m)),&quot;userSpaceOnUse&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.transform(new x(-u,-f)),w.paintMesh(g.data,p.width),y.putImageData(g,0,0);const M=document.createElementNS(t,&quot;image&quot;);d(M,{width:l,height:c,x:0,y:0});let S=p.toDataURL();M.setAttributeNS(e,&quot;xlink:href&quot;,S);const k=&quot;pattern_clip&quot;+n,A=document.createElementNS(t,&quot;pattern&quot;);d(A,{id:k,patternUnits:&quot;userSpaceOnUse&quot;,width:l,height:c,x:u,y:f}),A.appendChild(M),o.parentNode.appendChild(A),r.style.stroke=&quot;url(#&quot;+k+&quot;)&quot;,g=null,p=null,S=null}}})}();
+</script>
+  <g
+     id="g1655">
+    <polygon
+       class="st0"
+       points="55.4,0 110.8,32 110.8,96 55.4,128 11.1,102.4 10.9,102.3 0,96 0,32 "
+       id="polygon9"
+       style="fill:url(#meshgradient1012);stroke:none;fill-opacity:1"
+       transform="matrix(9.3557753,0,0,9.3515625,81.690076,1.4999624)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g984"
+       transform="matrix(0.92890443,0,0,0.92890443,43.067328,22.055412)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         id="path4268"
+         style="opacity:0.999;fill:#25e899;fill-opacity:1;stroke:none;stroke-width:5.73632;stroke-linejoin:bevel;paint-order:markers fill stroke"
+         d="m 747.08148,921.09683 v 96.17307 h 49.82528 v -96.17307 z"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/7.5kudos/health.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         ry="18.435595"
+         y="461.07843"
+         x="581.89655"
+         height="36.871189"
+         width="48.160095"
+         id="rect4270"
+         style="opacity:0.999;fill:#ffce08;fill-opacity:1;stroke:none;stroke-width:28.0678;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/7.5kudos/health.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="M 823.66221,458.62659 A 217.89579,148.5859 0 0 1 606.01334,607.21292 217.89579,148.5859 0 0 1 387.87111,458.96341"
+         style="opacity:0.999;fill:none;stroke:#25e899;stroke-width:32.054;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="path4272"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/7.5kudos/health.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         d="m 478.64508,334.48976 c -43.99444,0 -81.08838,19.43135 -93.9081,46.4463 h 29.56932 v 41.72305 h -29.56932 c 12.81972,27.01494 49.91366,46.4463 93.9081,46.4463 h 57.77209 a 70.347538,47.970878 0 0 1 34.83365,-49.85014 70.347538,47.970878 0 0 1 95.7924,18.23692 l -61.27641,23.56304 61.36224,-23.4586 a 70.347538,47.970878 0 0 1 7.98746,31.50878 h 57.7717 c 43.99453,0 81.08847,-19.43136 93.90819,-46.4463 h -26.94764 v -41.72305 h 26.94764 c -12.81972,-27.01495 -49.91366,-46.4463 -93.90819,-46.4463 z"
+         style="opacity:0.999;fill:#0fce7c;fill-opacity:1;stroke:none;stroke-width:27.9474;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="path4274"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/7.5kudos/health.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         style="opacity:0.999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:96.4949;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="path4276"
+         sodipodi:type="arc"
+         sodipodi:cx="717.48389"
+         sodipodi:cy="403.01175"
+         sodipodi:rx="30.492113"
+         sodipodi:ry="20.792959"
+         sodipodi:start="5.7722227"
+         sodipodi:end="5.7697269"
+         sodipodi:arc-type="slice"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/7.5kudos/health.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         d="m 744.08137,392.84364 a 30.492113,20.792959 0 0 1 -11.66973,28.29892 30.492113,20.792959 0 0 1 -41.50661,-7.94007 30.492113,20.792959 0 0 1 11.61793,-28.30884 30.492113,20.792959 0 0 1 41.52111,7.90475 l -26.56018,10.21335 z" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 605.76672,165.79713 a 253.66068,172.97443 0 0 0 -253.66086,172.97454 253.66068,172.97443 0 0 0 0.17562,6.42823 h 506.97051 a 253.66068,172.97443 0 0 0 0.17563,-6.42823 253.66068,172.97443 0 0 0 -253.6609,-172.97454 z"
+         style="opacity:0.999;fill:#15003e;fill-opacity:1;stroke:none;stroke-width:9.85563;stroke-linejoin:bevel;paint-order:markers fill stroke"
+         id="path4278" />
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         ry="26.185839"
+         y="297.16879"
+         x="336.96268"
+         height="52.371677"
+         width="537.60803"
+         id="rect4280"
+         style="opacity:0.999;fill:#15003e;fill-opacity:1;stroke:none;stroke-width:9.85563;stroke-linejoin:bevel;paint-order:markers fill stroke" />
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         y="973.72632"
+         x="409.57538"
+         height="43.543541"
+         width="63.855011"
+         id="rect4298"
+         style="opacity:0.999;fill:#25e899;fill-opacity:1;stroke:none;stroke-width:22.5774;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 416.59019,921.09685 v 96.17305 h 49.82525 v -96.17305 z"
+         style="opacity:0.999;fill:#25e899;fill-opacity:1;stroke:none;stroke-width:5.73632;stroke-linejoin:bevel;paint-order:markers fill stroke"
+         id="path4266" />
+      <path
+         id="path4284"
+         style="opacity:0.999;fill:#0fce7c;fill-opacity:1;stroke:none;stroke-width:9.06673;stroke-linejoin:bevel;paint-order:markers fill stroke"
+         d="M 416.58989,819.73384 V 923.26703 H 796.90676 V 819.73384 H 763.22169 L 606.74825,886.54482 450.27493,819.73384 Z"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/7.5kudos/health.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         id="path4286"
+         style="opacity:0.999;fill:#0fce7c;fill-opacity:1;stroke:none;stroke-width:9.06671;stroke-linejoin:bevel;paint-order:markers fill stroke"
+         d="m 416.16431,620.79426 v 34.48827 h 33.12876 l 80.15678,0.18969 -0.16931,0.11647 76.48771,52.15686 76.48613,-52.15686 -0.2066,-0.14088 80.19253,-0.16528 h 36.27877 v -34.48827 z"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/7.5kudos/health.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         transform="matrix(0.826191,-0.56339013,0.826191,0.56339013,0,0)"
+         ry="0"
+         y="998.56238"
+         x="-416.54224"
+         height="152.40558"
+         width="152.40558"
+         id="rect4288"
+         style="opacity:0.999;fill:#f9006c;fill-opacity:0.996756;stroke:none;stroke-width:4.57215;stroke-linejoin:bevel;paint-order:markers fill stroke" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 483.66654,799.16462 a 90.351937,61.61213 1.0205484e-5 0 1 -23.3572,-59.58282 90.351937,61.61213 1.0205484e-5 0 1 64.06643,-43.53368 90.351937,61.61213 1.0205484e-5 0 1 87.29295,16.13795"
+         style="opacity:0.999;fill:#f9006c;fill-opacity:0.996756;stroke:none;stroke-width:2.23832;stroke-linejoin:bevel;paint-order:markers fill stroke"
+         id="path4292" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         id="path4294"
+         style="opacity:0.999;fill:#f9006c;fill-opacity:0.996756;stroke:none;stroke-width:2.23832;stroke-linejoin:bevel;paint-order:markers fill stroke"
+         d="m 603.27261,711.24383 a 61.61213,90.351937 89.99999 0 1 87.37603,-15.92758 61.61213,90.351937 89.99999 0 1 63.84051,43.68771 61.61213,90.351937 89.99999 0 1 -23.66566,59.5262" />
+      <rect
+         style="opacity:0.999;fill:#25e899;fill-opacity:1;stroke:none;stroke-width:22.5774;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect4300"
+         width="63.855011"
+         height="43.543541"
+         x="740.06653"
+         y="973.72632"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/7.5kudos/health.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         sodipodi:arc-type="slice"
+         sodipodi:end="5.7697269"
+         sodipodi:start="5.7722227"
+         sodipodi:ry="20.792959"
+         sodipodi:rx="30.492113"
+         sodipodi:cy="403.01175"
+         sodipodi:cx="497.45224"
+         sodipodi:type="arc"
+         id="path4302"
+         style="opacity:0.999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:96.4949;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/7.5kudos/health.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300"
+         d="m 524.04972,392.84364 a 30.492113,20.792959 0 0 1 -11.66972,28.29892 30.492113,20.792959 0 0 1 -41.50661,-7.94007 30.492113,20.792959 0 0 1 11.61792,-28.30884 30.492113,20.792959 0 0 1 41.52111,7.90475 l -26.56018,10.21335 z" />
+      <path
+         id="path4304"
+         style="opacity:0.999;fill:#ffce08;fill-opacity:1;stroke:none;stroke-width:39.4225;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 548.89286,520.14568 h 113.74769 c 15.75405,0 28.43691,8.6486 28.43691,19.39149 0,10.74289 -12.68286,19.39149 -28.43691,19.39149 H 548.89286 c -15.75405,0 -28.43691,-8.6486 -28.43691,-19.39149 0,-10.74289 12.68286,-19.39149 28.43691,-19.39149 z"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/7.5kudos/health.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="M 721.10507,742.50412 C 723.10711,703.85293 698.4614,700.4622 698.4614,700.4622 l 0.18169,2.80935 c 0,0 23.69435,3.21672 14.85164,39.23257 z"
+         style="fill:#4574b9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.474022"
+         id="path4306" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="M 721.10507,742.50412 C 723.10711,703.85293 698.4614,700.4622 698.4614,700.4622 l 0.18169,2.80935 c 0,0 23.69435,3.21672 14.85164,39.23257 z"
+         style="fill:#0fce7c;fill-opacity:1;stroke:#000000;stroke-width:0.948045;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4312" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 614.39372,742.50412 c -2.00204,-38.65119 22.64367,-42.04192 22.64367,-42.04192 l -0.18226,2.80935 c 0,0 -23.69434,3.21672 -14.85164,39.23257 z"
+         style="fill:#4574b9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.474022"
+         id="path4318" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 614.39372,742.50412 c -2.00204,-38.65119 22.64367,-42.04192 22.64367,-42.04192 l -0.18226,2.80935 c 0,0 -23.69434,3.21672 -14.85164,39.23257 z"
+         style="fill:#0fce7c;fill-opacity:1;stroke:#000000;stroke-width:0.948045;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4324" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 671.66321,809.12797 c 21.78542,-2.33708 44.31454,-28.05688 49.85118,-66.62405 h -1.72441 l -6.3001,0.0215 -0.19975,-0.0215 h -1.33676 c -5.76122,35.628 -22.86431,62.38075 -43.72883,62.38075 -20.86453,0 -38.91785,-26.75275 -44.67907,-62.38075 h -1.33732 l -0.19976,0.0215 -6.29953,-0.0215 h -1.72441 c 5.44804,37.95194 24.499,62.11595 51.56882,66.62962 -0.005,-0.001 -0.0102,-3.9e-4 -0.0152,-3.9e-4 0.31035,19.6798 -15.4983,37.44024 -38.95848,43.77452 -18.9776,5.12453 -44.24739,3.34414 -60.61523,-9.68799 -16.64321,-13.25114 -19.04701,-34.12755 -5.08692,-50.62926 l -6.35821,-3.12552 c -2.09345,2.39242 -16.41355,19.37238 -7.63009,39.6913 6.60029,15.26687 22.14091,22.92957 26.70474,25.00184 18.03865,8.19112 40.90239,9.11257 59.7677,2.81293 24.05153,-8.03144 39.424,-27.02234 38.30166,-47.81712 z"
+         style="fill:#44bad2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.474022"
+         id="path4330" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 671.66321,809.12797 c 21.78542,-2.33708 44.31454,-28.05688 49.85118,-66.62405 h -1.72441 l -6.3001,0.0215 -0.19975,-0.0215 h -1.33676 c -5.76122,35.628 -22.86431,62.38075 -43.72883,62.38075 -20.86453,0 -38.91785,-26.75275 -44.67907,-62.38075 h -1.33732 l -0.19976,0.0215 -6.29953,-0.0215 h -1.72441 c 5.44804,37.95194 24.499,62.11595 51.56882,66.62962 -0.005,-0.001 -0.0102,-3.9e-4 -0.0152,-3.9e-4 0.31035,19.6798 -15.4983,37.44024 -38.95848,43.77452 -18.9776,5.12453 -44.24739,3.34414 -60.61523,-9.68799 -16.64321,-13.25114 -19.04701,-34.12755 -5.08692,-50.62926 l -6.35821,-3.12552 c -2.09345,2.39242 -16.41355,19.37238 -7.63009,39.6913 6.60029,15.26687 22.14091,22.92957 26.70474,25.00184 18.03865,8.19112 40.90239,9.11257 59.7677,2.81293 24.05153,-8.03144 39.424,-27.02234 38.30166,-47.81712 z"
+         style="fill:#ffce08;fill-opacity:1;stroke:#000000;stroke-width:0.948045;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4336" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 582.9193,782.90188 c 0,7.16295 -7.97091,12.97001 -17.80278,12.97001 -9.83245,0 -17.80335,-5.80706 -17.80335,-12.97001 0,-7.16295 7.9709,-12.96961 17.80335,-12.96961 9.83187,0 17.80278,5.80666 17.80278,12.96961"
+         style="fill:#f9006c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.474022"
+         id="path4342" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 582.9193,782.90188 c 0,7.16295 -7.97091,12.97001 -17.80278,12.97001 -9.83245,0 -17.80335,-5.80706 -17.80335,-12.97001 0,-7.16295 7.9709,-12.96961 17.80335,-12.96961 9.83187,0 17.80278,5.80666 17.80278,12.96961 z"
+         style="fill:none;stroke:#000000;stroke-width:0.948045;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4348" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 574.65361,782.90188 c 0,3.7973 -4.26985,6.87584 -9.53733,6.87584 -5.26748,0 -9.53732,-3.07854 -9.53732,-6.87584 0,-3.79691 4.26984,-6.87545 9.53732,-6.87545 5.26748,0 9.53733,3.07854 9.53733,6.87545"
+         style="fill:#9053a1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.474022"
+         id="path4354" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 574.65361,782.90188 c 0,3.7973 -4.26985,6.87584 -9.53733,6.87584 -5.26748,0 -9.53732,-3.07854 -9.53732,-6.87584 0,-3.79691 4.26984,-6.87545 9.53732,-6.87545 5.26748,0 9.53733,3.07854 9.53733,6.87545 z"
+         style="fill:#0fce7c;fill-opacity:1;stroke:#000000;stroke-width:0.948045;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4360" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 652.18674,702.4201 c 0,2.39761 -6.14492,4.23613 -9.59263,4.23613 -3.44713,0 -6.24197,-1.94405 -6.24197,-4.34245 0,-2.39801 2.79484,-4.34205 6.24197,-4.34205 3.44771,0 9.59263,2.05037 9.59263,4.44837"
+         style="fill:#f9006c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.474022"
+         id="path4366" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 652.18674,702.4201 c 0,2.39761 -6.14492,4.23613 -9.59263,4.23613 -3.44713,0 -6.24197,-1.94405 -6.24197,-4.34245 0,-2.39801 2.79484,-4.34205 6.24197,-4.34205 3.44771,0 9.59263,2.05037 9.59263,4.44837 z"
+         style="fill:none;stroke:#000000;stroke-width:0.948045;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4372" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 683.85651,702.31394 c 0,2.398 6.14436,4.23653 9.59206,4.23653 3.4477,0 6.24254,-1.94405 6.24254,-4.34245 0,-2.39801 -2.79484,-4.34205 -6.24254,-4.34205 -3.4477,0 -9.59206,2.04997 -9.59206,4.44797"
+         style="fill:#f9006c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.474022"
+         id="path4378" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 683.85651,702.31394 c 0,2.398 6.14436,4.23653 9.59206,4.23653 3.4477,0 6.24254,-1.94405 6.24254,-4.34245 0,-2.39801 -2.79484,-4.34205 -6.24254,-4.34205 -3.4477,0 -9.59206,2.04997 -9.59206,4.44797 z"
+         style="fill:none;stroke:#000000;stroke-width:0.948045;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4384" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 643.81441,699.94727 c 1.51281,0 3.67849,0.44997 5.31319,1.14246 -1.38811,-1.2217 -4.855,-2.12882 -7.00375,-2.12882 -2.7339,0 -4.95036,1.39293 -4.95036,3.11119 0,1.16277 1.01569,2.17581 2.51948,2.7098 -0.52365,-0.49377 -0.82892,-1.08591 -0.82892,-1.72384 0,-1.71786 2.21646,-3.11079 4.95036,-3.11079"
+         style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.474022"
+         id="path4390" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 643.81441,699.94727 c 1.51281,0 3.67849,0.44997 5.31319,1.14246 -1.38811,-1.2217 -4.855,-2.12882 -7.00375,-2.12882 -2.7339,0 -4.95036,1.39293 -4.95036,3.11119 0,1.16277 1.01569,2.17581 2.51948,2.7098 -0.52365,-0.49377 -0.82892,-1.08591 -0.82892,-1.72384 0,-1.71786 2.21646,-3.11079 4.95036,-3.11079 z"
+         style="fill:#3e00ff;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.335134;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4396" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 686.79022,703.40861 c 0.16251,0.34166 -0.46609,0.6001 -0.82497,0.34087 -0.39216,-0.28273 -0.74145,-0.61882 -0.96716,-1.01185 -0.5654,-0.98556 1.00779,-2.56684 2.74067,-2.85953 -0.66979,0.3787 -1.53708,1.27984 -1.67476,1.85326 -0.092,0.38427 0.57951,1.36944 0.72622,1.67725"
+         style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.474022"
+         id="path4402" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 686.79022,703.40861 c 0.16251,0.34166 -0.46609,0.6001 -0.82497,0.34087 -0.39216,-0.28273 -0.74145,-0.61882 -0.96716,-1.01185 -0.5654,-0.98556 1.00779,-2.56684 2.74067,-2.85953 -0.66979,0.3787 -1.53708,1.27984 -1.67476,1.85326 -0.092,0.38427 0.57951,1.36944 0.72622,1.67725 z"
+         style="fill:#3e00ff;fill-opacity:1;stroke:#f2f2f2;stroke-width:0.33466;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4408" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 615.10318,743.41561 c 0.35606,2.41632 0.94008,6.00337 1.8621,10.33188 1.27977,6.00656 2.64418,10.78067 2.79314,10.74961 0.12245,-0.0251 -0.58627,-3.27844 -1.30234,-8.84657 -0.57894,-4.50532 -0.68276,-6.79421 0.31713,-9.29058 0.55637,-1.38775 1.28202,-2.41234 1.80454,-3.05663 -1.82486,0.0374 -3.64971,0.0749 -5.47457,0.11229"
+         style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.474022"
+         id="path4414" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 615.10318,743.41561 c 0.35606,2.41632 0.94008,6.00337 1.8621,10.33188 1.27977,6.00656 2.64418,10.78067 2.79314,10.74961 0.12245,-0.0251 -0.58627,-3.27844 -1.30234,-8.84657 -0.57894,-4.50532 -0.68276,-6.79421 0.31713,-9.29058 0.55637,-1.38775 1.28202,-2.41234 1.80454,-3.05663 -1.82486,0.0374 -3.64971,0.0749 -5.47457,0.11229 z"
+         style="fill:none;stroke:#f2f2f2;stroke-width:0.315225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4420" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 677.2332,804.03721 c 2.1747,-0.84261 5.22967,-2.21443 8.29819,-4.34205 3.37999,-2.34425 5.21331,-4.52164 7.9173,-7.78416 1.80623,-2.18018 4.06332,-5.17032 6.24254,-8.89634 -0.47286,3.44568 -1.77464,6.15907 -2.89302,7.996 -1.28598,2.11288 -3.75411,6.03961 -9.59207,9.31964 -3.72193,2.09138 -7.44557,3.15101 -9.97294,3.70691"
+         style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.474022"
+         id="path4426" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 677.2332,804.03721 c 2.1747,-0.84261 5.22967,-2.21443 8.29819,-4.34205 3.37999,-2.34425 5.21331,-4.52164 7.9173,-7.78416 1.80623,-2.18018 4.06332,-5.17032 6.24254,-8.89634 -0.47286,3.44568 -1.77464,6.15907 -2.89302,7.996 -1.28598,2.11288 -3.75411,6.03961 -9.59207,9.31964 -3.72193,2.09138 -7.44557,3.15101 -9.97294,3.70691 z"
+         style="fill:none;stroke:#f2f2f2;stroke-width:0.33466;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4432" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 608.81933,856.40261 c 3.48212,0.0522 8.55154,-0.12185 14.32969,-1.22927 7.62896,-1.46221 12.94948,-3.87296 15.91868,-5.44827 -1.60535,1.65774 -5.59589,5.23683 -13.06967,7.31826 -5.79733,1.61512 -10.93334,1.56057 -14.76982,1.51995 -7.63065,-0.0808 -13.80718,-1.38217 -17.97433,-2.56724 5.18849,0.13499 10.37697,0.27078 15.56545,0.40657"
+         style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.474022"
+         id="path4438" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 608.81933,856.40261 c 3.48212,0.0522 8.55154,-0.12185 14.32969,-1.22927 7.62896,-1.46221 12.94948,-3.87296 15.91868,-5.44827 -1.60535,1.65774 -5.59589,5.23683 -13.06967,7.31826 -5.79733,1.61512 -10.93334,1.56057 -14.76982,1.51995 -7.63065,-0.0808 -13.80718,-1.38217 -17.97433,-2.56724 5.18849,0.13499 10.37697,0.27078 15.56545,0.40657 z"
+         style="fill:none;stroke:#f2f2f2;stroke-width:0.312855;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4444" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 558.43847,783.00267 c -0.0722,-0.50373 -0.17097,-1.87715 1.01513,-3.2645 0.29003,-0.33928 1.79325,-2.09776 4.81831,-2.41393 3.61755,-0.3783 6.09076,1.65295 6.22054,1.76326 -0.70083,-0.21902 -3.23046,-0.93778 -6.19796,-0.29866 -4.34264,0.93499 -5.73696,3.94026 -5.85602,4.21383"
+         style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.474022"
+         id="path4450" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 558.43847,783.00267 c -0.0722,-0.50373 -0.17097,-1.87715 1.01513,-3.2645 0.29003,-0.33928 1.79325,-2.09776 4.81831,-2.41393 3.61755,-0.3783 6.09076,1.65295 6.22054,1.76326 -0.70083,-0.21902 -3.23046,-0.93778 -6.19796,-0.29866 -4.34264,0.93499 -5.73696,3.94026 -5.85602,4.21383 z"
+         style="fill:none;stroke:#f2f2f2;stroke-width:0.33466;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4456" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 550.16342,780.33655 c 1.30065,-1.3985 3.38225,-3.29437 6.50098,-5.04807 3.8946,-2.18974 7.70513,-3.20039 10.14166,-3.68899 -1.21318,-0.0793 -6.26116,-0.30503 -10.92205,2.32991 -4.10959,2.32353 -5.37921,5.43592 -5.72059,6.40715"
+         style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.474022"
+         id="path4462" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         d="m 550.16342,780.33655 c 1.30065,-1.3985 3.38225,-3.29437 6.50098,-5.04807 3.8946,-2.18974 7.70513,-3.20039 10.14166,-3.68899 -1.21318,-0.0793 -6.26116,-0.30503 -10.92205,2.32991 -4.10959,2.32353 -5.37921,5.43592 -5.72059,6.40715 z"
+         style="fill:none;stroke:#f2f2f2;stroke-width:0.394861;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path4468" />
+      <rect
+         ry="5.8584814"
+         y="680.461"
+         x="440.03458"
+         height="11.716963"
+         width="17.182497"
+         id="rect4474"
+         style="opacity:0.999;fill:#0fce7c;fill-opacity:1;stroke:#25e899;stroke-width:39.4225;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/7.5kudos/health.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         style="opacity:0.999;fill:#0fce7c;fill-opacity:1;stroke:#25e899;stroke-width:39.4225;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect4476"
+         width="17.182497"
+         height="11.716963"
+         x="755.74994"
+         y="680.461"
+         ry="5.8584814"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/7.5kudos/health.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         ry="3.0408299"
+         y="792.14777"
+         x="759.88196"
+         height="6.0816598"
+         width="8.9185314"
+         id="rect4478"
+         style="opacity:0.999;fill:#0fce7c;fill-opacity:1;stroke:#25e899;stroke-width:20.4622;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/7.5kudos/health.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+      <rect
+         style="opacity:0.999;fill:#0fce7c;fill-opacity:1;stroke:#25e899;stroke-width:20.4622;stroke-linejoin:bevel;stroke-opacity:1;paint-order:markers fill stroke"
+         id="rect4480"
+         width="8.9185314"
+         height="6.0816598"
+         x="446.39996"
+         y="792.14777"
+         ry="3.0408299"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/7.5kudos/health.png"
+         inkscape:export-xdpi="300"
+         inkscape:export-ydpi="300" />
+    </g>
+    <path
+       style="fill:#e6e7e8;stroke-width:9.47658"
+       id="path1686"
+       d="M 600.9356,89.355648 164.91269,348.00921 V 852.05216 L 600.9356,1105.9685 1036.9585,852.05216 V 341.37708 Z M 1020.8446,841.63022 601.88353,1085.1246 183.8702,841.63022 V 358.43115 L 602.83137,110.19953 1021.7924,351.79902 Z"
+       class="st27"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <g
+       id="g5405"
+       transform="rotate(-59.525679,625.78893,613.24583)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/kudosone.png"
+         class="cls-7"
+         d="m 731.27,1075.63 14.64,-8.41 0.66,1.15 a 27.93,27.93 0 0 1 3.14,7.62 17.62,17.62 0 0 1 0,7.12 18.55,18.55 0 0 1 -9.35,12.77 20,20 0 0 1 -15.83,2 21.3,21.3 0 0 1 -4.86,-39 20.93,20.93 0 0 1 8.73,-2.77 25.76,25.76 0 0 1 9.93,1.59 l -1.76,5.8 q -7.7,-3.3 -14,0.31 a 14.57,14.57 0 0 0 -7.21,9.31 15,15 0 0 0 1.69,11.74 14.44,14.44 0 0 0 9.85,7.3 14.7,14.7 0 0 0 10.67,-1.4 12.34,12.34 0 0 0 5.55,-6.73 11,11 0 0 0 -0.17,-8.43 l -8.85,5.08 z"
+         id="path88" />
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/kudosone.png"
+         class="cls-7"
+         x="135.39595"
+         y="1277.509"
+         width="6.1700001"
+         height="40.880001"
+         transform="rotate(-29.95)"
+         id="rect90" />
+      <polygon
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/kudosone.png"
+         transform="translate(-9.52993,-1.5)"
+         class="cls-7"
+         points="820.84,1055.63 815.51,1058.7 798.01,1028.31 789.87,1032.99 786.97,1027.97 808.58,1015.53 811.46,1020.55 803.35,1025.22 "
+         id="polygon92" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/kudosone.png"
+         class="cls-7"
+         d="m 842.06,991.8 3.64,6.32 q -6.88,-1.22 -11.83,1.64 a 14.15,14.15 0 0 0 -6.95,9.21 15.27,15.27 0 0 0 1.74,11.72 14.86,14.86 0 0 0 9.17,7.25 14.43,14.43 0 0 0 11.45,-1.48 13.25,13.25 0 0 0 4.25,-3.68 15,15 0 0 0 1.57,-2.55 30.42,30.42 0 0 0 1.41,-3.32 l 3.72,6.46 a 22.38,22.38 0 0 1 -8.15,8.16 21,21 0 0 1 -28.79,-7.66 21.08,21.08 0 0 1 -2.45,-14.65 20.46,20.46 0 0 1 10.51,-14.72 20.78,20.78 0 0 1 10.71,-2.73"
+         id="path94" />
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/kudosone.png"
+         class="cls-3"
+         d="m 867.98,990.21 a 20,20 0 0 1 -1.91,-16 20.93,20.93 0 0 1 10,-13 21.4,21.4 0 0 1 29,7.83 20.11,20.11 0 0 1 2,16.11 21.63,21.63 0 0 1 -25.15,15.35 q -9,-1.78 -13.94,-10.31 m 5.41,-3 a 14.8,14.8 0 0 0 9.51,7.37 15.11,15.11 0 0 0 18.45,-10.69 15.88,15.88 0 0 0 -10.89,-19 14.38,14.38 0 0 0 -11.54,1.5 14.53,14.53 0 0 0 -7.11,9.23 14.8,14.8 0 0 0 1.58,11.6"
+         id="path96" />
+      <polygon
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/kudosone.png"
+         transform="translate(-9.52993,-1.5)"
+         class="cls-7"
+         points="948.13,932.01 989.54,944.17 975.36,919.54 980.7,916.47 1002.34,954.07 960.97,941.97 975.25,966.77 969.91,969.85 "
+         id="polygon100" />
+      <rect
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/server/ProjectMatimaone/Project/Bounty/kudosone.png"
+         id="rect1095"
+         transform="rotate(-29.95)"
+         height="40.880001"
+         width="6.1700001"
+         y="1277.272"
+         x="318.21036"
+         class="cls-7" />
+    </g>
+  </g>
+</svg>
